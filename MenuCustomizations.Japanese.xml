@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MenuCustomizations>
+	<MenuItem id="0" caption="Alert Manager Menu" custom="アラートマネージャメニュー"/>
+	<MenuItem id="0" caption="Alerts" custom="アラート"/>
+	<MenuItem id="0" caption="Analysis" custom="分析"/>
+	<MenuItem id="0" caption="Bar Periods" custom="バーの期間"/>
+	<MenuItem id="0" caption="Bar Spacing" custom="バーの間隔"/>
+	<MenuItem id="0" caption="Chart" custom="チャート"/>
+	<MenuItem id="0" caption="Chart Drawing" custom="チャート描画"/>
+	<MenuItem id="0" caption="Chart Drawing Context Menu" custom="チャート描画コンテキストメニュー"/>
+	<MenuItem id="0" caption="Chart Trade" custom="チャートトレード"/>
+	<MenuItem id="0" caption="Chart Trade Context Menu" custom="チャートトレードのコンテキストメニュー"/>
+	<MenuItem id="0" caption="Chartbook Sharing" custom="チャートブックの共有"/>
+	<MenuItem id="0" caption="Color" custom="色"/>
+	<MenuItem id="0" caption="Confirmations" custom="確認"/>
+	<MenuItem id="0" caption="Control Bars" custom="コントロールバー"/>
+	<MenuItem id="0" caption="Current Tool Config" custom="現在のツールコンフィグ"/>
+	<MenuItem id="0" caption="Customize Control Bars" custom="コントロールバーのカスタマイズ"/>
+	<MenuItem id="0" caption="Debug" custom="デバッグ"/>
+	<MenuItem id="0" caption="Draw Under/Over" custom="上/下の描画"/>
+	<MenuItem id="0" caption="Edit" custom="編集"/>
+	<MenuItem id="0" caption="File" custom="ファイル"/>
+	<MenuItem id="0" caption="Global Settings" custom="グローバル設定"/>
+	<MenuItem id="0" caption="Graph Draw Types" custom="チャートグラフの描画タイプ"/>
+	<MenuItem id="0" caption="Graphics Settings Configurations" custom="グラフィック設定のコンフィグ"/>
+	<MenuItem id="0" caption="Help" custom="ヘルプ"/>
+	<MenuItem id="0" caption="Horizontal Grid" custom="水平グリッド"/>
+	<MenuItem id="0" caption="Interactive Scaling Mode" custom="対話式スケーリング"/>
+	<MenuItem id="0" caption="Line Style" custom="ラインスタイル"/>
+	<MenuItem id="0" caption="Line Width" custom="ライン幅"/>
+	<MenuItem id="0" caption="Linking" custom="リンク"/>
+	<MenuItem id="0" caption="Main Menu" custom="メインメニュー"/>
+	<MenuItem id="0" caption="More Tools" custom="その他"/>
+	<MenuItem id="0" caption="Number" custom="番号"/>
+	<MenuItem id="0" caption="Orders" custom="注文"/>
+	<MenuItem id="0" caption="Quote Board Menu" custom="クオートボードメニュー"/>
+	<MenuItem id="0" caption="Replay Chart" custom="リプレイチャート"/>
+	<MenuItem id="0" caption="Scale" custom="スケール"/>
+	<MenuItem id="0" caption="Screen Images" custom="スクリーンの画像化"/>
+	<MenuItem id="0" caption="Settings" custom="設定"/>
+	<MenuItem id="0" caption="Spreadsheet" custom="スプレッドシート"/>
+	<MenuItem id="0" caption="TPO Chart" custom="TPOチャート"/>
+	<MenuItem id="0" caption="TPO Context Menu" custom="TPOコンテキストメニュー"/>
+	<MenuItem id="0" caption="Time and Sales Menu" custom="歩値メニュー"/>
+	<MenuItem id="0" caption="Tool Configs" custom="ツールコンフィグ"/>
+	<MenuItem id="0" caption="Tools" custom="ツール"/>
+	<MenuItem id="0" caption="Trade" custom="トレード"/>
+	<MenuItem id="0" caption="Trade Activity Menu" custom="トレードアクティビティメニュー"/>
+	<MenuItem id="0" caption="TradeWindow" custom="トレードウィンドウ"/>
+	<MenuItem id="0" caption="Trading DOM Menu" custom="トレーディングDOMメニュー"/>
+	<MenuItem id="0" caption="Trading Window Menu" custom="トレーディングウィンドウメニュー"/>
+	<MenuItem id="0" caption="Type" custom="種類"/>
+	<MenuItem id="0" caption="Value Scale Context Menu" custom="バリュースケールのコンテキストメニュー"/>
+	<MenuItem id="0" caption="Values Scale" custom="バリュースケール"/>
+	<MenuItem id="0" caption="Window" custom="ウィンドウ"/>
+	<MenuItem id="1179" caption="Copy Selection" custom="選択箇所をコピー"/>
+	<MenuItem id="32672" caption="Link None" custom="リンク無し"/>
+	<MenuItem id="32673" caption="Link 1" custom="リンク1"/>
+	<MenuItem id="32674" caption="Link 2" custom="リンク2"/>
+	<MenuItem id="32675" caption="Link 3" custom="リンク3"/>
+	<MenuItem id="32676" caption="Link 4" custom="リンク4"/>
+	<MenuItem id="32677" caption="Link 5" custom="リンク5"/>
+	<MenuItem id="32678" caption="Link 6" custom="リンク6"/>
+	<MenuItem id="32679" caption="Link 7" custom="リンク7"/>
+	<MenuItem id="32680" caption="Link 8" custom="リンク8"/>
+	<MenuItem id="32681" caption="Link 9" custom="リンク9"/>
+	<MenuItem id="32682" caption="Link 10" custom="リンク10"/>
+	<MenuItem id="32683" caption="Link 11" custom="リンク11"/>
+	<MenuItem id="32684" caption="Link 12" custom="リンク12"/>
+	<MenuItem id="32685" caption="Link 13" custom="リンク13"/>
+	<MenuItem id="32686" caption="Link 14" custom="リンク14"/>
+	<MenuItem id="32687" caption="Link 15" custom="リンク15"/>
+	<MenuItem id="32688" caption="Link 16" custom="リンク16"/>
+	<MenuItem id="32689" caption="Link 17" custom="リンク17"/>
+	<MenuItem id="32690" caption="Link 18" custom="リンク18"/>
+	<MenuItem id="32691" caption="Link 19" custom="リンク19"/>
+	<MenuItem id="32692" caption="Link 20" custom="リンク20"/>
+	<MenuItem id="32778" caption="New Chartbook" custom="チャートブックを作成"/>
+	<MenuItem id="32779" caption="New/Open Historical Chart" custom="ヒストリカルチャートを開く"/>
+	<MenuItem id="32782" caption="Save As" custom="名前を付けて保存"/>
+	<MenuItem id="32784" caption="Close Chartbook" custom="チャートブックを閉じる"/>
+	<MenuItem id="32785" caption="Connect to Data Feed" custom="データフィードに接続する"/>
+	<MenuItem id="32786" caption="Disconnect" custom="切断"/>
+	<MenuItem id="32787" caption="Exit" custom="終了"/>
+	<MenuItem id="32790" caption="General Settings" custom="一般設定"/>
+	<MenuItem id="32791" caption="Intraday File Update List" custom="イントラデイファイルのアップデートリスト"/>
+	<MenuItem id="32792" caption="Graphics Settings - Global" custom="グラフィック設定 - グローバル"/>
+	<MenuItem id="32793" caption="Data/Trade Service Settings" custom="データ/トレードサービス設定"/>
+	<MenuItem id="32794" caption="Chart Settings" custom="チャート設定"/>
+	<MenuItem id="32796" caption="Decrease Spacing" custom="間隔を狭く"/>
+	<MenuItem id="32797" caption="Increase Spacing" custom="間隔を広く"/>
+	<MenuItem id="32800" caption="Previous File" custom="前のファイル"/>
+	<MenuItem id="32801" caption="Next File" custom="次のファイル"/>
+	<MenuItem id="32803" caption="New Spreadsheet" custom="新しいスプレッドシートを作成"/>
+	<MenuItem id="32804" caption="Studies" custom="スタディ"/>
+	<MenuItem id="32806" caption="Pointer" custom="ポインタ"/>
+	<MenuItem id="32807" caption="Chart Calculator" custom="チャート計算機"/>
+	<MenuItem id="32808" caption="Chart Values/Crosshair" custom="チャートの値/クロスヘア"/>
+	<MenuItem id="32809" caption="Line" custom="ライン"/>
+	<MenuItem id="32810" caption="Erase Drawing Mode" custom="描画モードの消去"/>
+	<MenuItem id="32811" caption="Erase Last Drawing" custom="最後の描画を消去"/>
+	<MenuItem id="32812" caption="Open Spreadsheet" custom="スプレッドシートを開く"/>
+	<MenuItem id="32814" caption="Edit Data - Historical Chart" custom="データ編集 - ヒストリカルチャート"/>
+	<MenuItem id="32815" caption="Adjust Data" custom="データを調整"/>
+	<MenuItem id="32817" caption="Open Chartbook" custom="チャートブックを開く"/>
+	<MenuItem id="32818" caption="Tile Horizontally" custom="水平に並べて表示"/>
+	<MenuItem id="32819" caption="Tile Vertically" custom="垂直に並べて表示"/>
+	<MenuItem id="32821" caption="Message Log" custom="メッセージログ"/>
+	<MenuItem id="32824" caption="Table of Contents" custom="目次"/>
+	<MenuItem id="32825" caption="Support" custom="サポート"/>
+	<MenuItem id="32827" caption="About" custom="Sierra Chartについて"/>
+	<MenuItem id="32837" caption="Getting Started" custom="はじめに"/>
+	<MenuItem id="32841" caption="Copy Value" custom="値をコピー"/>
+	<MenuItem id="32842" caption="Cut Value/Formula" custom="値/数式を切り取り"/>
+	<MenuItem id="32843" caption="Paste" custom="貼り付け"/>
+	<MenuItem id="32844" caption="Add Sheet" custom="シートを追加"/>
+	<MenuItem id="32845" caption="Delete Sheet" custom="シートを削除"/>
+	<MenuItem id="32850" caption="Goto" custom="移動"/>
+	<MenuItem id="32859" caption="Fix Row" custom="行を修正"/>
+	<MenuItem id="32860" caption="Fix Column" custom="列を修正"/>
+	<MenuItem id="32862" caption="Show Grid Lines" custom="グリッドラインを表示"/>
+	<MenuItem id="32866" caption="Number Format" custom="数値を編集"/>
+	<MenuItem id="32867" caption="Sort" custom="ソート"/>
+	<MenuItem id="32869" caption="Save" custom="保存"/>
+	<MenuItem id="32870" caption="Save All" custom="すべて保存"/>
+	<MenuItem id="32871" caption="Clear Selection" custom="選択をクリア"/>
+	<MenuItem id="32874" caption="Daily" custom="日"/>
+	<MenuItem id="32875" caption="Weekly" custom="週"/>
+	<MenuItem id="32876" caption="Monthly" custom="月"/>
+	<MenuItem id="32877" caption="Goto Chart" custom="チャートへ移動"/>
+	<MenuItem id="32882" caption="Quote Spreadsheet Settings" custom="クオートスプレッドシート設定"/>
+	<MenuItem id="32887" caption="Next Chartbook" custom="次のチャートブック"/>
+	<MenuItem id="32888" caption="Previous Chartbook" custom="前のチャートブック"/>
+	<MenuItem id="32890" caption="Web Site" custom="ウェブサイト"/>
+	<MenuItem id="32891" caption="Large Decrease Spacing" custom="間隔をより狭く"/>
+	<MenuItem id="32892" caption="Large Increase Spacing" custom="間隔をより広く"/>
+	<MenuItem id="32893" caption="Reload and Recalculate" custom="再読み込みおよび再計算"/>
+	<MenuItem id="32895" caption="Adjust Regions" custom="リージョンの調整"/>
+	<MenuItem id="32896" caption="Show Headings" custom="見出しを表示"/>
+	<MenuItem id="32900" caption="Open All" custom="すべて開く"/>
+	<MenuItem id="32903" caption="Vertical Grid" custom="垂直グリッド"/>
+	<MenuItem id="32905" caption="Copy Chart Values" custom="チャートの値をコピー"/>
+	<MenuItem id="32907" caption="Ray" custom="半直線"/>
+	<MenuItem id="32908" caption="Logarithmic Scale" custom="スケールを対数化"/>
+	<MenuItem id="32909" caption="Start Scan" custom="スキャン開始"/>
+	<MenuItem id="32910" caption="Stop Scan" custom="スキャン停止"/>
+	<MenuItem id="32911" caption="Price Retracement" custom="プライスリトレースメント"/>
+	<MenuItem id="32912" caption="Erase Single Drawing" custom="単一の描画を消去"/>
+	<MenuItem id="32914" caption="Download Data - Historical Chart" custom="データのダウンロード - ヒストリカルチャート"/>
+	<MenuItem id="32916" caption="Horizontal Line" custom="水平線"/>
+	<MenuItem id="32922" caption="Next Chart" custom="次のチャート"/>
+	<MenuItem id="32923" caption="Previous Chart" custom="前のチャート"/>
+	<MenuItem id="32929" caption="New/Open Intraday Chart" custom="イントラデイチャートを開く"/>
+	<MenuItem id="32932" caption="Type Text" custom="テキスト入力"/>
+	<MenuItem id="32933" caption="Erase All Non-Text Drawings" custom="すべての非テキスト描画を消去"/>
+	<MenuItem id="32934" caption="Reload All Charts" custom="すべてのチャートを再読み込み"/>
+	<MenuItem id="32937" caption="Clear Recent File List" custom="最近使ったファイルのリストを消去する"/>
+	<MenuItem id="32939" caption="Copy to Chart.bmp" custom="チャートをbmpとしてコピー"/>
+	<MenuItem id="32941" caption="Account Control Panel" custom="アカウントコントロールパネル"/>
+	<MenuItem id="32947" caption="Adjust Drawing" custom="描画を調整"/>
+	<MenuItem id="32963" caption="Make Line Parallel" custom="線を平行にする"/>
+	<MenuItem id="32964" caption="Make Parallel To Previous" custom="前の平行にする"/>
+	<MenuItem id="32973" caption="Chart Values Window" custom="チャートバリューウィンドウ"/>
+	<MenuItem id="32977" caption="Current Quote Window" custom="現在のクオートウィンドウ"/>
+	<MenuItem id="32978" caption="Tool Values Window" custom="ツールバリューウィンドウ"/>
+	<MenuItem id="32983" caption="Replay Chart (Control Panel)" custom="リプレイチャート(コントロールパネル)"/>
+	<MenuItem id="32988" caption="Move Drawing" custom="描画を移動"/>
+	<MenuItem id="32993" caption="Snap To High/Low" custom="高値/安値にスナップ"/>
+	<MenuItem id="32995" caption="Chart Drawing Properties" custom="チャート描画プロパティ"/>
+	<MenuItem id="32999" caption="Close Active Window" custom="アクティブウィンドウを閉じる"/>
+	<MenuItem id="33046" caption="Goto Beginning of Chart" custom="チャートの最初へ移動"/>
+	<MenuItem id="33047" caption="Goto End of Chart" custom="チャートの最後へ移動"/>
+	<MenuItem id="33050" caption="Export and Edit Intraday Data" custom="イントラデイデータのエクスポートおよび編集"/>
+	<MenuItem id="33051" caption="Import and Load Intraday Data" custom="イントラデイデータのインポートおよび読み込み"/>
+	<MenuItem id="33057" caption="Only Symbols in Watch List" custom="ウォッチリストのシンボルのみ"/>
+	<MenuItem id="33088" caption="Global Cursor On" custom="グローバルカーソルをオン"/>
+	<MenuItem id="33089" caption="Symbol Cursor On" custom="シンボルカーソルをオン"/>
+	<MenuItem id="33105" caption="Confirm New Orders" custom="新規注文を確認"/>
+	<MenuItem id="33110" caption="Copy and Move Drawing" custom="描画の移動およびコピー"/>
+	<MenuItem id="33111" caption="Erase All Text" custom="すべてのテキストを消去"/>
+	<MenuItem id="33113" caption="Linear Regression" custom="線形回帰"/>
+	<MenuItem id="33114" caption="Raff Regression Channel" custom="ラフ回帰チャネル"/>
+	<MenuItem id="33115" caption="Extended Line" custom="延長線"/>
+	<MenuItem id="33116" caption="Price Expansion" custom="プライスエクスパンション"/>
+	<MenuItem id="33117" caption="Draw Volume Profile" custom="ボリュームプロファイル描画"/>
+	<MenuItem id="33142" caption="Find Symbol" custom="シンボルを探す"/>
+	<MenuItem id="33148" caption="Find Symbol and Insert" custom="シンボルを探して挿入"/>
+	<MenuItem id="33150" caption="Tool Settings" custom="ツール設定"/>
+	<MenuItem id="33159" caption="Pitchfork" custom="ピッチフォーク"/>
+	<MenuItem id="33163" caption="Cut Drawing Here" custom="ここで描画を切り取る"/>
+	<MenuItem id="33166" caption="Vertical Line" custom="垂直線"/>
+	<MenuItem id="33168" caption="General Trade Settings" custom="一般トレード設定"/>
+	<MenuItem id="33184" caption="Arrow" custom="矢印"/>
+	<MenuItem id="33186" caption="Reset Scales" custom="スケールのリセット"/>
+	<MenuItem id="33189" caption="Lock Fill Space" custom="チャートの空間をロック"/>
+	<MenuItem id="33191" caption="Control Bar 1" custom="コントロールバー1"/>
+	<MenuItem id="33192" caption="Control Bar 2" custom="コントロールバー2"/>
+	<MenuItem id="33193" caption="Control Bar 3" custom="コントロールバー3"/>
+	<MenuItem id="33194" caption="Control Bar 4" custom="コントロールバー4"/>
+	<MenuItem id="33195" caption="Control Bar 5" custom="コントロールバー5"/>
+	<MenuItem id="33196" caption="Control Bar 6" custom="コントロールバー6"/>
+	<MenuItem id="33197" caption="Control Bar 7" custom="コントロールバー7"/>
+	<MenuItem id="33198" caption="Control Bar 8" custom="コントロールバー8"/>
+	<MenuItem id="33301" caption="Control Bar 1" custom="コントロールバー1"/>
+	<MenuItem id="33302" caption="Control Bar 2" custom="コントロールバー2"/>
+	<MenuItem id="33303" caption="Control Bar 3" custom="コントロールバー3"/>
+	<MenuItem id="33304" caption="Control Bar 4" custom="コントロールバー4"/>
+	<MenuItem id="33305" caption="Control Bar 5" custom="コントロールバー5"/>
+	<MenuItem id="33306" caption="Control Bar 6" custom="コントロールバー6"/>
+	<MenuItem id="33307" caption="Control Bar 7" custom="コントロールバー7"/>
+	<MenuItem id="33308" caption="Control Bar 8" custom="コントロールバー8"/>
+	<MenuItem id="33484" caption="Range" custom="距離"/>
+	<MenuItem id="33485" caption="Reset" custom="リセット"/>
+	<MenuItem id="33486" caption="Scale Settings" custom="スケール設定"/>
+	<MenuItem id="33487" caption="Move" custom="移動"/>
+	<MenuItem id="33488" caption="Reset and Lock" custom="リセットおよびロック"/>
+	<MenuItem id="33489" caption="Lock" custom="ロック"/>
+	<MenuItem id="33490" caption="Data/Trade Services" custom="データ/トレードサービス"/>
+	<MenuItem id="33492" caption="Export Intraday Data to Text File" custom="イントラデイデータをテキストファイルにエクスポート"/>
+	<MenuItem id="33495" caption="Edit/Download Data - Intraday Chart" custom="編集/データのダウンロード - イントラデイチャート"/>
+	<MenuItem id="33496" caption="Use Evening/Full Session" custom="イブニング/フルセッションを使用"/>
+	<MenuItem id="33498" caption="Synchronize Charts" custom="チャート同期"/>
+	<MenuItem id="33499" caption="Synchronize Linked Charts Only" custom="リンクしたチャートのみ同期"/>
+	<MenuItem id="33500" caption="Customize Chart Header - Standard" custom="チャートヘッダのカスタマイズ - スタンダード"/>
+	<MenuItem id="33501" caption="Open Intraday Chart" custom="イントラデイチャートを開く"/>
+	<MenuItem id="33502" caption="Open Historical Chart" custom="ヒストリカルチャートを開く"/>
+	<MenuItem id="33504" caption="New/Open Custom Studies File" custom="カスタムスタディのファイルを開く"/>
+	<MenuItem id="33505" caption="Trade Service Log" custom="トレードサービスログ"/>
+	<MenuItem id="33509" caption="Reset Windows" custom="ウィンドウをリセット"/>
+	<MenuItem id="33510" caption="Arrange Minimized Windows" custom="最小化されたウィンドウを配置"/>
+	<MenuItem id="33511" caption="Confirm Order Modifications" custom="注文変更を確認"/>
+	<MenuItem id="33513" caption="Confirm Order Cancellations" custom="注文キャンセルを確認"/>
+	<MenuItem id="33515" caption="Buy Limit" custom="指値買い"/>
+	<MenuItem id="33517" caption="Sell Limit" custom="指値売り"/>
+	<MenuItem id="33519" caption="Gann Grid" custom="ギャン・グリッド"/>
+	<MenuItem id="33520" caption="Zig-Zag" custom="ジグザク"/>
+	<MenuItem id="33523" caption="Upload Chart" custom="チャートをアップロード"/>
+	<MenuItem id="33524" caption="Upload Main Window Image" custom="メインウィンドウの画像をアップロード"/>
+	<MenuItem id="33525" caption="Send Chart to Support" custom="チャートをサポートに送信"/>
+	<MenuItem id="33527" caption="Open Upload Log" custom="アップロードに関するログを開く"/>
+	<MenuItem id="33529" caption="Duplicate Chart" custom="チャートを複製"/>
+	<MenuItem id="33530" caption="Buy Stop" custom="ストップ買い"/>
+	<MenuItem id="33532" caption="Sell Stop" custom="ストップ売り"/>
+	<MenuItem id="33533" caption="Upload Chart with Overlays" custom="オーバーレイ付きチャートをアップロード"/>
+	<MenuItem id="33535" caption="Build Custom Studies DLL" custom="カスタムスタディのDLLをビルド"/>
+	<MenuItem id="33537" caption="Price Projection" custom="プライスプロジェクション"/>
+	<MenuItem id="33538" caption="Open Time and Sales Window" custom="歩値ウィンドウを開く"/>
+	<MenuItem id="33539" caption="RecalcFromCurrentBar" custom="現在のバーから再計算"/>
+	<MenuItem id="33540" caption="Buy Stop-Limit" custom="ストップ指値買い"/>
+	<MenuItem id="33542" caption="Sell Stop-Limit" custom="ストップ指値売り"/>
+	<MenuItem id="33544" caption="Download Current Version" custom="現在のバージョンをダウンロード"/>
+	<MenuItem id="33545" caption="Install Previous Version" custom="前のバージョンをダウンロード"/>
+	<MenuItem id="33546" caption="Modify Text" custom="テキストを変更"/>
+	<MenuItem id="33547" caption="Rectangle" custom="長方形"/>
+	<MenuItem id="33550" caption="Ellipse" custom="楕円"/>
+	<MenuItem id="33551" caption="Triangle" custom="三角形"/>
+	<MenuItem id="33552" caption="Copy and Adjust Drawing" custom="描画の調整およびコピー"/>
+	<MenuItem id="33555" caption="Snap Side To High/Low" custom="サイドを高値/安値へスナップ"/>
+	<MenuItem id="33556" caption="Extend Drawing" custom="描画を拡張"/>
+	<MenuItem id="33557" caption="Download PreRelease" custom="プレリリース版をダウンロード"/>
+	<MenuItem id="33559" caption="Accept Remote Assistance" custom="リモートアシスタンスの受け入れ"/>
+	<MenuItem id="33560" caption="Quickly Changing Bar Period" custom="バーの期間をすぐに変更"/>
+	<MenuItem id="33562" caption="Windows and Chartbooks" custom="ウィンドウとチャートブック"/>
+	<MenuItem id="33564" caption="Open Trade Window For Chart" custom="トレードウィンドウを開く(アクティブチャート)"/>
+	<MenuItem id="33566" caption="Send Main Window Image to Support" custom="メインウィンドウの画像をサポートに送信"/>
+	<MenuItem id="33567" caption="Reset Child Windows" custom="子ウィンドウをリセット"/>
+	<MenuItem id="33568" caption="Hide All Trade Windows" custom="すべてのトレードウィンドウを非表示"/>
+	<MenuItem id="33569" caption="Restore All Trade Windows" custom="すべてのトレードウィンドウを復元"/>
+	<MenuItem id="33571" caption="Alert Manager" custom="アラートマネージャ"/>
+	<MenuItem id="33572" caption="Alerts" custom="アラート"/>
+	<MenuItem id="33574" caption="Trading Chart DOM On" custom="トレーディングチャートDOMによるトレーディングをオン"/>
+	<MenuItem id="33576" caption="Chart Trade Mode On" custom="チャートトレードモードをオン"/>
+	<MenuItem id="33588" caption="Restore" custom="復元"/>
+	<MenuItem id="33590" caption="Maximize" custom="最大化"/>
+	<MenuItem id="33593" caption="Goto Date-Time" custom="日付移動"/>
+	<MenuItem id="33595" caption="Close All Chartbooks" custom="すべてのチャートブックを閉じる"/>
+	<MenuItem id="33596" caption="Buy Market" custom="成行買い"/>
+	<MenuItem id="33598" caption="Sell Market" custom="成行売り"/>
+	<MenuItem id="33599" caption="Flatten and Cancel" custom="フラット化およびキャンセル"/>
+	<MenuItem id="33601" caption="Reverse and Cancel" custom="反転およびキャンセル"/>
+	<MenuItem id="33602" caption="Trade Simulation Mode On" custom="トレードシミュレーションモードを有効化"/>
+	<MenuItem id="33603" caption="Cancel All" custom="すべてキャンセル"/>
+	<MenuItem id="33605" caption="Confirm Cancel All" custom="すべてキャンセルを確認"/>
+	<MenuItem id="33607" caption="Cycle" custom="円"/>
+	<MenuItem id="33609" caption="Time Expansion" custom="タイムエクスパンション"/>
+	<MenuItem id="33626" caption="Time Projection" custom="タイムプロジェクション"/>
+	<MenuItem id="33627" caption="Confirm Flatten/Reverse" custom="フラット化/反転を確認"/>
+	<MenuItem id="33628" caption="Cell Properties" custom="セルのプロパティ"/>
+	<MenuItem id="33629" caption="Move Stop to Breakeven" custom="ストップを損益分岐点に移動"/>
+	<MenuItem id="33642" caption="Copy Down" custom="下へコピー"/>
+	<MenuItem id="33643" caption="Copy Right" custom="右へコピー"/>
+	<MenuItem id="33646" caption="Save Log As" custom="ログに名前を付けて保存"/>
+	<MenuItem id="33649" caption="Trade Activity Log" custom="トレードアクティビティログ"/>
+	<MenuItem id="33650" caption="Spreadsheet Settings" custom="スプレッドシート設定"/>
+	<MenuItem id="33651" caption="Edit Comment" custom="コメントを編集"/>
+	<MenuItem id="33652" caption="Show Comment" custom="コメントを表示"/>
+	<MenuItem id="33653" caption="Hide Comment" custom="コメントを非表示"/>
+	<MenuItem id="33654" caption="Delete Comment" custom="コメントを削除"/>
+	<MenuItem id="33658" caption="Detach/Attach Chart Window" custom="チャートウィンドウの取り付け/取り外し"/>
+	<MenuItem id="33661" caption="Scroll All Charts To End" custom="すべてのチャートを最後へ移動"/>
+	<MenuItem id="33666" caption="Snap To Close" custom="終値へスナップ"/>
+	<MenuItem id="33667" caption="Snap To Open" custom="始値へスナップ"/>
+	<MenuItem id="33668" caption="Snap To Open/Close" custom="始値/終値へスナップ"/>
+	<MenuItem id="33679" caption="Auto-Fit Width" custom="幅を自動調整"/>
+	<MenuItem id="33680" caption="Pitchfork - Schiff Median" custom="ピッチフォーク - シフ中央値"/>
+	<MenuItem id="33682" caption="Pitchfork - Modified Schiff" custom="ピッチフォーク - 修正シフ"/>
+	<MenuItem id="33692" caption="Undo Chart Drawing" custom="チャート描画を元に戻す"/>
+	<MenuItem id="33693" caption="Redo Chart Drawing" custom="チャート描画をやり直す"/>
+	<MenuItem id="33701" caption="Duplicate Chart To Chartbook " custom="チャートをチャートブックに複製"/>
+	<MenuItem id="33702" caption="Stationary Text" custom="固定テキスト"/>
+	<MenuItem id="33705" caption="Associated Watch List" custom="関連するウォッチリスト"/>
+	<MenuItem id="33708" caption="Draw DOM Graph On Chart" custom="チャートにDOMグラフを描画"/>
+	<MenuItem id="33717" caption="Page Scroll Left" custom="ページを左へスクロール"/>
+	<MenuItem id="33718" caption="Page Scroll Right" custom="ページを右へスクロール"/>
+	<MenuItem id="33720" caption="Zoom In" custom="ズーム"/>
+	<MenuItem id="33723" caption="Cancel Zoom In" custom="ズームをキャンセル"/>
+	<MenuItem id="33736" caption="Color #1" custom="色1"/>
+	<MenuItem id="33737" caption="Color #2" custom="色2"/>
+	<MenuItem id="33738" caption="Color #3" custom="色3"/>
+	<MenuItem id="33739" caption="Color #4" custom="色4"/>
+	<MenuItem id="33740" caption="Color #5" custom="色5"/>
+	<MenuItem id="33741" caption="Color #6" custom="色6"/>
+	<MenuItem id="33742" caption="Color #7" custom="色7"/>
+	<MenuItem id="33743" caption="Color #8" custom="色8"/>
+	<MenuItem id="33744" caption="QuickTest_1" custom="クイックテスト1"/>
+	<MenuItem id="33745" caption="Show Order Fills" custom="注文の約定を表示"/>
+	<MenuItem id="33747" caption="Always on Top" custom="常に前面表示"/>
+	<MenuItem id="33748" caption="Auto Scale the ChartDOM" custom="チャートDOMの自動スケーリング"/>
+	<MenuItem id="33749" caption="Hand" custom="手書き"/>
+	<MenuItem id="33752" caption="Clear Trade Simulation Orders &amp; Data" custom="トレードシミュレーションの注文とデータをクリア"/>
+	<MenuItem id="33753" caption="Set X &amp; Y Constant Relationship" custom="XとYの定数関係を設定"/>
+	<MenuItem id="33758" caption="Attach Trade Window To Chart" custom="チャートにトレードウィンドウを付与"/>
+	<MenuItem id="33759" caption="Buy OCO Limit and Stop" custom="指値およびストップ買い(OCO)"/>
+	<MenuItem id="33760" caption="Sell OCO Limit and Stop" custom="指値およびストップ売り(OCO)"/>
+	<MenuItem id="33767" caption="Join Intraday Data" custom="イントラデイデータを結合"/>
+	<MenuItem id="33769" caption="Show Bid and Ask Lines" custom="ビッドおよびアスクラインを表示"/>
+	<MenuItem id="33770" caption="Extending Rectangle" custom="拡張長方形"/>
+	<MenuItem id="33773" caption="Bid Ask Average Line" custom="ビッドアスクの平均ラインを表示"/>
+	<MenuItem id="33777" caption="Maintain Same Quantity For OCO Group Orders" custom="OCOグループ注文で同じ数量を維持"/>
+	<MenuItem id="33784" caption="Scale Range: Automatic" custom="スケール範囲：自動"/>
+	<MenuItem id="33785" caption="Scale Range: Independent" custom="スケール範囲：独立"/>
+	<MenuItem id="33787" caption="Scale Range: Constant Range" custom="スケール範囲：一定範囲"/>
+	<MenuItem id="33788" caption="Delete All Data And Download" custom="すべてのデータを削除して再ダウンロードする"/>
+	<MenuItem id="33796" caption="Solid" custom="ソリッド"/>
+	<MenuItem id="33797" caption="Dash" custom="ダッシュ"/>
+	<MenuItem id="33798" caption="Dot" custom="ドット"/>
+	<MenuItem id="33799" caption="Dash Dot" custom="ダッシュドット"/>
+	<MenuItem id="33800" caption="Dash Dot Dot" custom="ダッシュドットドット"/>
+	<MenuItem id="33802" caption="Show Compact Tool Values Window" custom="コンパクトツールバリューウィンドウを表示"/>
+	<MenuItem id="33805" caption="Quarterly" custom="四半期"/>
+	<MenuItem id="33806" caption="Yearly" custom="年"/>
+	<MenuItem id="33807" caption="Perform Futures Symbol Rollover" custom="先物シンボルのロールオーバーを実行"/>
+	<MenuItem id="33809" caption="Customize Chart Shortcut Menu" custom="チャートショートカットメニューのカスタマイズ"/>
+	<MenuItem id="33810" caption="Open Market Depth Window" custom="マーケットデプスウィンドウを開く"/>
+	<MenuItem id="33811" caption="AutoTrade System Replay BackTest" custom="自動トレードシステムのバックテストをリプレイ"/>
+	<MenuItem id="33816" caption="Candlestick Bars Hollow" custom="中空ローソク足"/>
+	<MenuItem id="33817" caption="Candlestick Bars" custom="ローソク足"/>
+	<MenuItem id="33818" caption="OHLC Bars" custom="OHLCバー"/>
+	<MenuItem id="33819" caption="Candlestick Body Only Bars" custom="ヒゲ無しローソク足"/>
+	<MenuItem id="33820" caption="Line On Close" custom="終値ライン"/>
+	<MenuItem id="33821" caption="Mountain" custom="マウンテン"/>
+	<MenuItem id="33822" caption="HLC Bars" custom="HLCバー"/>
+	<MenuItem id="33823" caption="HL Bars" custom="HLバー"/>
+	<MenuItem id="33824" caption="Line On Open" custom="始値ライン"/>
+	<MenuItem id="33825" caption="Line On HL Avg" custom="HL平均ライン"/>
+	<MenuItem id="33826" caption="Stair Step On Close" custom="終値階段"/>
+	<MenuItem id="33827" caption="Bid Ask Volume Bars" custom="ビッドアスクボリュームバー"/>
+	<MenuItem id="33828" caption="Price Volume Bars" custom="プライスボリュームバー"/>
+	<MenuItem id="33829" caption="Candle Price Volume Bars" custom="プライスボリュームローソク足"/>
+	<MenuItem id="33830" caption="Blank" custom="無し"/>
+	<MenuItem id="33835" caption="Undo" custom="元に戻す"/>
+	<MenuItem id="33837" caption="Gann Fan" custom="ギャン・ファン"/>
+	<MenuItem id="33838" caption="Fibonacci Fan" custom="フィボナッチ・ファン"/>
+	<MenuItem id="33840" caption="Hide Level" custom="レベルを非表示"/>
+	<MenuItem id="33841" caption="Symbol Settings" custom="シンボル設定"/>
+	<MenuItem id="33850" caption="1" custom="1"/>
+	<MenuItem id="33851" caption="2" custom="2"/>
+	<MenuItem id="33852" caption="3" custom="3"/>
+	<MenuItem id="33853" caption="4" custom="4"/>
+	<MenuItem id="33854" caption="5" custom="5"/>
+	<MenuItem id="33855" caption="OCO Buy Stop Sell Stop" custom="ストップ買いおよびストップ売り(OCO)"/>
+	<MenuItem id="33856" caption="OCO Buy Stop Sell Stop (Auto-Set)" custom="ストップ買いおよびストップ売り(OCO自動セット)"/>
+	<MenuItem id="33857" caption="Open Trading DOM" custom="トレーディングDOMを開く"/>
+	<MenuItem id="33858" caption="OCO Buy Stop Limit Sell Stop Limit (Auto-Set)" custom="ストップ指値買いおよびストップ指値売り(OCO自動セット)"/>
+	<MenuItem id="33859" caption="OCO Buy Stop Sell Stop at Market" custom="ストップ買いおよびストップ売り(OCO at Market)"/>
+	<MenuItem id="33861" caption="Send Attached Orders By Position" custom="添付注文をポジション別に送信"/>
+	<MenuItem id="33863" caption="OCO Buy Stop Limit Sell Stop Limit" custom="ストップ指値買いおよびストップ指値売り(OCO)"/>
+	<MenuItem id="33867" caption="OCO Buy Limit Sell Limit" custom="指値買いおよび指値売り(OCO)"/>
+	<MenuItem id="33868" caption="OCO Buy Limit Sell Limit (Auto-Set)" custom="指値買いおよび指値売り(OCO自動セット)"/>
+	<MenuItem id="33869" caption="Show Orders And Position" custom="注文とポジションを表示"/>
+	<MenuItem id="33870" caption="Clear Alert Sound Queue" custom="アラートサウントのキューをクリア"/>
+	<MenuItem id="33878" caption="Support Scale Out" custom="スケールアウトをサポート"/>
+	<MenuItem id="33879" caption="Support Scale In" custom="スケールインをサポート"/>
+	<MenuItem id="33885" caption="Graphics Settings - Chart" custom="グラフィック設定 - チャート"/>
+	<MenuItem id="33886" caption="Split Profile Here (&lt;&gt;)" custom="プロファイルを分割(&lt;&gt;)"/>
+	<MenuItem id="33887" caption="Merge With Prior Profile (&lt;&lt;)" custom="前のプロファイルとマージ(&lt;&lt;)"/>
+	<MenuItem id="33888" caption="Merge With Next Profile (&gt;&gt;)" custom="次のプロファイルとマージ(&gt;&gt;)"/>
+	<MenuItem id="33889" caption="Undo This Profile Split" custom="プロファイル分割を元に戻す"/>
+	<MenuItem id="33890" caption="Undo All Merges In This Profile" custom="プロファイルのすべてのマージを元に戻す"/>
+	<MenuItem id="33891" caption="Undo All Splits For This Chart" custom="チャートのすべての分割を元に戻す"/>
+	<MenuItem id="33892" caption="Undo All Merges For This Chart" custom="チャートのすべてのマージを元に戻す"/>
+	<MenuItem id="33894" caption="Letters/Blocks In Own Column" custom="自身の列のレター/ブロック"/>
+	<MenuItem id="33895" caption="Reset TPO Chart" custom="TPOチャートをリセット"/>
+	<MenuItem id="33896" caption="Use Stop-Limit Orders On Chart DOM" custom="チャートDOMでストップリミット注文を使用"/>
+	<MenuItem id="33898" caption="1 Minute" custom="1分"/>
+	<MenuItem id="33899" caption="5 Minutes" custom="5分"/>
+	<MenuItem id="33900" caption="10 Minutes" custom="10分"/>
+	<MenuItem id="33901" caption="15 Minutes" custom="15分"/>
+	<MenuItem id="33903" caption="1 Hour" custom="1時間"/>
+	<MenuItem id="33904" caption="2 Hours" custom="2時間"/>
+	<MenuItem id="33905" caption="3 Hours" custom="3時間"/>
+	<MenuItem id="33907" caption="4 Hours" custom="4時間"/>
+	<MenuItem id="33908" caption="30 Minutes" custom="30分"/>
+	<MenuItem id="33910" caption="Custom" custom="カスタム"/>
+	<MenuItem id="33911" caption="Send Attached Orders By Price" custom="添付注文を価格別に送信"/>
+	<MenuItem id="33916" caption="Close" custom="閉じる"/>
+	<MenuItem id="33927" caption="Clear Log" custom="ログをクリア"/>
+	<MenuItem id="33932" caption="Parallel Lines" custom="平行線"/>
+	<MenuItem id="33933" caption="Parallel Rays" custom="並行半直線"/>
+	<MenuItem id="33940" caption="Use MIT Orders On Chart DOM" custom="チャートDOMでMIT注文を使用"/>
+	<MenuItem id="33941" caption="Auto Trading Enabled - Global" custom="自動トレーディングを有効化 - グローバル"/>
+	<MenuItem id="33942" caption="Disable Auto Trading On Startup" custom="起動時に自動トレーディングを無効化"/>
+	<MenuItem id="33944" caption="Only Orders From Chart" custom="チャートからの注文のみ"/>
+	<MenuItem id="33946" caption="Color Same As Chart" custom="チャートと同じ色"/>
+	<MenuItem id="33949" caption="Download Data For All Historical Charts" custom="すべてのヒストリカルチャートのデータをダウンロード"/>
+	<MenuItem id="33954" caption="Chart Trade Settings" custom="チャートトレード設定"/>
+	<MenuItem id="33955" caption="Chart DOM Settings" custom="チャートDOM設定"/>
+	<MenuItem id="33956" caption="Customize Chart/Trade DOM Columns" custom="チャート/トレードDOM列をカスタマイズ"/>
+	<MenuItem id="33959" caption="Show Market Data Columns" custom="市場データ列を表示"/>
+	<MenuItem id="33975" caption="Auto Snap On Creation" custom="作成時に自動スナップ"/>
+	<MenuItem id="33976" caption="Auto Snap On Adjust" custom="作成時に自動調整"/>
+	<MenuItem id="33981" caption="Config 1" custom="コンフィグ1"/>
+	<MenuItem id="33982" caption="Config 2" custom="コンフィグ2"/>
+	<MenuItem id="33983" caption="Config 3" custom="コンフィグ3"/>
+	<MenuItem id="33984" caption="Config 4" custom="コンフィグ4"/>
+	<MenuItem id="33985" caption="Config 5" custom="コンフィグ5"/>
+	<MenuItem id="33986" caption="Config 6" custom="コンフィグ6"/>
+	<MenuItem id="33987" caption="Config 7" custom="コンフィグ7"/>
+	<MenuItem id="33988" caption="Config 8" custom="コンフィグ8"/>
+	<MenuItem id="34003" caption="AutoTrade System Bar Based BackTest" custom="バーベースの自動トレードシステムバックテスト"/>
+	<MenuItem id="34004" caption="Recalculate" custom="再計算"/>
+	<MenuItem id="34005" caption="Copy Chart Image" custom="チャートを画像としてコピー"/>
+	<MenuItem id="34006" caption="Hide Chart Drawings" custom="チャート描画を非表示"/>
+	<MenuItem id="34021" caption="Line Config" custom="ラインコンフィグ"/>
+	<MenuItem id="34022" caption="Ray Config" custom="半直線コンフィグ"/>
+	<MenuItem id="34023" caption="Extended Line Config" custom="延長線コンフィグ"/>
+	<MenuItem id="34024" caption="Arrow Config" custom="矢印コンフィグ"/>
+	<MenuItem id="34025" caption="Chart Calculator Config" custom="チャート計算機コンフィグ"/>
+	<MenuItem id="34026" caption="Horizontal Line Config" custom="水平線コンフィグ"/>
+	<MenuItem id="34027" caption="Vertical Line Config" custom="垂直線コンフィグ"/>
+	<MenuItem id="34028" caption="Text Config" custom="テキスト入力コンフィグ"/>
+	<MenuItem id="34029" caption="Stationary Text Config" custom="固定テキストコンフィグ"/>
+	<MenuItem id="34030" caption="Rectangle Config" custom="長方形コンフィグ"/>
+	<MenuItem id="34031" caption="Extending Rectangle Config" custom="拡張長方形コンフィグ"/>
+	<MenuItem id="34032" caption="Ellipse Config" custom="楕円コンフィグ"/>
+	<MenuItem id="34033" caption="Parallel Lines Config" custom="平行線コンフィグ"/>
+	<MenuItem id="34034" caption="Parallel Rays Config" custom="並行半直線コンフィグ"/>
+	<MenuItem id="34035" caption="Linear Regression Config" custom="線形回帰コンフィグ"/>
+	<MenuItem id="34036" caption="Raff Regression Channel Config" custom="ラフ回帰チャネルコンフィグ"/>
+	<MenuItem id="34037" caption="Pitchfork Config" custom="ピッチフォークコンフィグ"/>
+	<MenuItem id="34038" caption="Pitchfork - Schiff Config" custom="ピッチフォーク - シフコンフィグ"/>
+	<MenuItem id="34039" caption="Pitchfork - Modified Schiff Config" custom="ピッチフォーク - 修正シフコンフィグ"/>
+	<MenuItem id="34040" caption="Price Retracement Config" custom="プライスリトレースメントコンフィグ"/>
+	<MenuItem id="34041" caption="Price Expansion Config" custom="プライスエクスパンションコンフィグ"/>
+	<MenuItem id="34042" caption="Price Projection Config" custom="プライスプロジェクションコンフィグ"/>
+	<MenuItem id="34043" caption="Time Expansion Config" custom="タイムエクスパンションコンフィグ"/>
+	<MenuItem id="34044" caption="Time Projection Config" custom="タイムプロジェクションコンフィグ"/>
+	<MenuItem id="34045" caption="Fibonacci Fan Config" custom="フィボナッチ・ファンコンフィグ"/>
+	<MenuItem id="34046" caption="Gann Fan Config" custom="ギャン・ファンコンフィグ"/>
+	<MenuItem id="34047" caption="Gann Grid Config" custom="ギャン・グリッドコンフィグ"/>
+	<MenuItem id="34048" caption="Cycle Config" custom="円コンフィグ"/>
+	<MenuItem id="34049" caption="Manage Chart Drawings Window" custom="チャート描画ウィンドウの管理"/>
+	<MenuItem id="34051" caption="Customize Chart Trade Menu" custom="チャートトレードメニューのカスタマイズ"/>
+	<MenuItem id="34052" caption="Buy MIT" custom="買い(MIT)"/>
+	<MenuItem id="34053" caption="Sell MIT" custom="売り(MIT)"/>
+	<MenuItem id="34054" caption="Buy Trailing Stop" custom="トレーリングストップ買い"/>
+	<MenuItem id="34055" caption="Sell Trailing Stop" custom="トレーリングストップ売り"/>
+	<MenuItem id="34060" caption="Buy Trailing Stop-Limit" custom="トレーリングストップ指値買い"/>
+	<MenuItem id="34061" caption="Sell Trailing Stop-Limit" custom="トレーリングストップ指値売り"/>
+	<MenuItem id="34062" caption="Buy OCO Limit &amp; Stop-Limit" custom="指値買いおよびストップ指値買い(OCO)"/>
+	<MenuItem id="34063" caption="Sell OCO Limit &amp; Stop-Limit" custom="指値売りおよびストップ指値売り(OCO)"/>
+	<MenuItem id="34064" caption="Marker" custom="マーカー"/>
+	<MenuItem id="34065" caption="Marker Config" custom="マーカーコンフィグ"/>
+	<MenuItem id="34066" caption="Hide Drawing" custom="描画を非表示"/>
+	<MenuItem id="34068" caption="Triangle Config" custom="三角形コンフィグ"/>
+	<MenuItem id="34070" caption="Horizontal Line Non-Extended" custom="無延長水平線"/>
+	<MenuItem id="34072" caption="Increase Bar Width" custom="バーの横幅を広く"/>
+	<MenuItem id="34073" caption="Decrease Bar Width" custom="バーの横幅を狭く"/>
+	<MenuItem id="34074" caption="Reset Bar Size/Spacing/Scale" custom="バーのサイズ/間隔/スケールをリセット"/>
+	<MenuItem id="34075" caption="Horizontal Ray" custom="水平半直線"/>
+	<MenuItem id="34076" caption="Horizontal Ray Config" custom="水平半直線コンフィグ"/>
+	<MenuItem id="34077" caption="Customize Chart Drawing Menu" custom="チャート描画メニューのカスタマイズ"/>
+	<MenuItem id="34078" caption="Horizontal Line Non-Extended Config" custom="無延長水平線コンフィグ"/>
+	<MenuItem id="34079" caption="Color" custom="色"/>
+	<MenuItem id="34080" caption="Line Style" custom="ラインスタイル"/>
+	<MenuItem id="34081" caption="Line Width" custom="ライン幅"/>
+	<MenuItem id="34083" caption="Flip Vertical" custom="垂直に反転"/>
+	<MenuItem id="34084" caption="Flip Horizontal" custom="水平に反転"/>
+	<MenuItem id="34200" caption="Copy All" custom="すべてコピー"/>
+	<MenuItem id="34202" caption="Help" custom="ヘルプ"/>
+	<MenuItem id="34204" caption="Refresh Trade Data From Service" custom="サービスからトレードデータを更新"/>
+	<MenuItem id="34209" caption="Close Trade Window" custom="トレードウィンドウを閉じる"/>
+	<MenuItem id="34210" caption="Window Always Visible" custom="常にウィンドウを表示"/>
+	<MenuItem id="34228" caption="Link Symbol" custom="シンボルにリンク"/>
+	<MenuItem id="34229" caption="Link Bar Period" custom="バーの期間にリンク"/>
+	<MenuItem id="34230" caption="Link Scroll Position" custom="スクロール位置にリンク"/>
+	<MenuItem id="34231" caption="Link Session Times" custom="セッション時間にリンク"/>
+	<MenuItem id="34232" caption="Save Chart to File" custom="チャートをファイルに保存"/>
+	<MenuItem id="34233" caption="New Quote Spreadsheet" custom="クオートスプレッドシートの作成"/>
+	<MenuItem id="34236" caption="Renko Brick" custom="練行足"/>
+	<MenuItem id="34239" caption="Renko Brick With Wicks" custom="ヒゲ有り練行足"/>
+	<MenuItem id="34241" caption="Remove Leftmost Merge In Profile" custom="プロファイルの左端のマージを削除"/>
+	<MenuItem id="34242" caption="Remove Rightmost Merge In Profile" custom="プロファイルの右端のマージを削除"/>
+	<MenuItem id="34243" caption="Support Board" custom="サポートボード"/>
+	<MenuItem id="34245" caption="Reward/Risk" custom="リワード/リスク"/>
+	<MenuItem id="34246" caption="Reward/Risk Config" custom="リワード/リスクコンフィグ"/>
+	<MenuItem id="34247" caption="Minimize Detached Windows" custom="分離したウィンドウを最小化"/>
+	<MenuItem id="34248" caption="Restore Detached Windows" custom="分離したウィンドウを復元"/>
+	<MenuItem id="34249" caption="Swing Marker Config" custom="スイングマーカーコンフィグ"/>
+	<MenuItem id="34250" caption="Swing Marker" custom="スイングマーカー"/>
+	<MenuItem id="34252" caption="Update Chart Drawings To Current Symbol" custom="チャート描画を現在のシンボルに更新"/>
+	<MenuItem id="34253" caption="Save Configuration" custom="コンフィグを保存"/>
+	<MenuItem id="34254" caption="Cancel Buy Orders" custom="買い注文をキャンセル"/>
+	<MenuItem id="34255" caption="Cancel Sell Orders" custom="売り注文をキャンセル"/>
+	<MenuItem id="34256" caption="Re-center Trade DOM Scales" custom="TradeDOMのスケールを再センタリング"/>
+	<MenuItem id="34269" caption="Customize Keyboard Shortcuts" custom="キーボードショートカットのカスタマイズ"/>
+	<MenuItem id="34271" caption="Minimize" custom="最小化"/>
+	<MenuItem id="34272" caption="Change Font" custom="フォントを変更"/>
+	<MenuItem id="34273" caption="Edit Formula" custom="数式を編集"/>
+	<MenuItem id="34275" caption="Lock Drawing" custom="描画をロック"/>
+	<MenuItem id="34276" caption="Trading Keyboard Shortcuts Enabled" custom="キーボードショートカットによるトレーディングを有効化"/>
+	<MenuItem id="34279" caption="Insert Row" custom="行を挿入"/>
+	<MenuItem id="34280" caption="Insert Column" custom="列を挿入"/>
+	<MenuItem id="34281" caption="Delete Row" custom="行を削除"/>
+	<MenuItem id="34283" caption="Delete Column" custom="列を削除"/>
+	<MenuItem id="34284" caption="Edit Trade Activity Entry" custom="トレードアクティビティエントリーを編集"/>
+	<MenuItem id="34285" caption="Delete Trade Activity Entry" custom="トレードアクティビティエントリーを削除"/>
+	<MenuItem id="34286" caption="Insert Trade Activity Entry" custom="トレードアクティビティエントリーを挿入"/>
+	<MenuItem id="34287" caption="Refresh Log" custom="ログを更新"/>
+	<MenuItem id="34288" caption="Copy Formula" custom="数式をコピー"/>
+	<MenuItem id="34290" caption="Save Chart to File with Header" custom="チャートをヘッダ付きファイルに保存"/>
+	<MenuItem id="34297" caption="Show Title Bar" custom="タイトルバーを表示"/>
+	<MenuItem id="34298" caption="Show Scrollbar" custom="スクロールバーを表示"/>
+	<MenuItem id="34299" caption="Set Symbols" custom="シンボルをセット"/>
+	<MenuItem id="34300" caption="New Quote Board" custom="クオートボードを開く"/>
+	<MenuItem id="34302" caption="Graphics Settings" custom="グラフィック設定"/>
+	<MenuItem id="34304" caption="Set Fields" custom="フィールドをセット"/>
+	<MenuItem id="34309" caption="Set Chart Link" custom="チャートリンクをセット"/>
+	<MenuItem id="34311" caption="Set Title" custom="タイトルをセット"/>
+	<MenuItem id="34312" caption="Clear" custom="クリア"/>
+	<MenuItem id="34317" caption="Always On Top" custom="常に前面表示"/>
+	<MenuItem id="34320" caption="Attach/Detach Window" custom="ウィンドウの取り付け/取り外し"/>
+	<MenuItem id="34322" caption="Save Symbol List As" custom="シンボルリストに名前を付けて保存"/>
+	<MenuItem id="34323" caption="Load Symbol List" custom="シンボルリストを読み込む"/>
+	<MenuItem id="34324" caption="Highlight All Fields" custom="すべてのフィールドを強調"/>
+	<MenuItem id="34357" caption="Erase All Drawn Volume Profiles" custom="すべてのボリュームプロファイル描画を消去"/>
+	<MenuItem id="34359" caption="Use Order Fill Calculated Position" custom="注文約定計算ポジションを使用"/>
+	<MenuItem id="34360" caption="All Regions" custom="すべてのリージョン"/>
+	<MenuItem id="34361" caption="Region 1" custom="リージョン1"/>
+	<MenuItem id="34362" caption="Region 2" custom="リージョン2"/>
+	<MenuItem id="34363" caption="Region 3" custom="リージョン3"/>
+	<MenuItem id="34364" caption="Region 4" custom="リージョン4"/>
+	<MenuItem id="34365" caption="Region 5" custom="リージョン5"/>
+	<MenuItem id="34366" caption="Region 6" custom="リージョン6"/>
+	<MenuItem id="34367" caption="Region 7" custom="リージョン7"/>
+	<MenuItem id="34368" caption="Region 8" custom="リージョン8"/>
+	<MenuItem id="34379" caption="Save Symbol List" custom="シンボルリストを保存"/>
+	<MenuItem id="34380" caption="Sort Locked" custom="ソートをロック"/>
+	<MenuItem id="34382" caption="In Cell Editing" custom="セルを編集"/>
+	<MenuItem id="34384" caption="Sort Within Groups" custom="グループ内でソート"/>
+	<MenuItem id="34501" caption="Clear Symbols" custom="シンボルをクリア"/>
+	<MenuItem id="34502" caption="Show Menu" custom="メニューを表示"/>
+	<MenuItem id="34507" caption="Add Symbol Alert" custom="シンボルアラートを追加"/>
+	<MenuItem id="34508" caption="Use Attached Orders" custom="添付された注文を使用"/>
+	<MenuItem id="34512" caption="Copy Symbols" custom="シンボルをコピー"/>
+	<MenuItem id="34513" caption="Auto Rollover Futures Symbols" custom="先物シンボルを自動ロールオーバー"/>
+	<MenuItem id="34519" caption="Show Alert Manager" custom="アラートマネージャを表示"/>
+	<MenuItem id="34521" caption="Add Symbol Alert" custom="シンボルアラートを表示"/>
+	<MenuItem id="34522" caption="Rename Sheet" custom="シートをリネーム"/>
+	<MenuItem id="34523" caption="New View" custom="新規ビュー"/>
+	<MenuItem id="34528" caption="Show Scroll Bars" custom="スクロールバーを表示"/>
+	<MenuItem id="34529" caption="Customize Columns" custom="列のカスタマイズ"/>
+	<MenuItem id="34530" caption="Add Usage Credit" custom="使用するクレジットを追加"/>
+	<MenuItem id="34531" caption="Enable Order Allocation to Trade Accounts" custom="トレードアカウントへの注文割り当てを有効化"/>
+	<MenuItem id="34600" caption="Activate Trial" custom="トライアルの有効化"/>
+	<MenuItem id="34751" caption="Auto-Calculate" custom="自動計算"/>
+	<MenuItem id="34753" caption="Hide Pending Attached Orders" custom="保留中の添付注文を非表示"/>
+	<MenuItem id="34754" caption="Descending Display Order" custom="注文を降順で表示"/>
+	<MenuItem id="34758" caption="Alert Log Descending Display Order" custom="アラートログの降順表示"/>
+	<MenuItem id="34760" caption="Always Visible Across Chartbooks" custom="常にチャートブック全体を表示"/>
+	<MenuItem id="34761" caption="Customize Menu Items" custom="メニューアイテムのカスタマイズ"/>
+	<MenuItem id="34762" caption="Letters/Blocks In Own Column - All Profiles" custom="自身の列のレター/ブロック - すべてのプロファイル"/>
+	<MenuItem id="34763" caption="Date Marker" custom="日付マーカー"/>
+	<MenuItem id="34765" caption="OHLC Ray" custom="OHLC半直線"/>
+	<MenuItem id="34768" caption="Date Marker Config" custom="日付マーカーコンフィグ"/>
+	<MenuItem id="34769" caption="OHLC Ray Config" custom="OHLC半直線コンフィグ"/>
+	<MenuItem id="34770" caption="Clear Recent Bid/Ask Volume" custom="最近のビッドアスクボリュームをクリア"/>
+	<MenuItem id="34771" caption="Show Rollover Dates" custom="ロールオーバーの日付を表示"/>
+	<MenuItem id="34774" caption="Clear Current Traded Bid/Ask Volume" custom="現在取引されたビッドアスクボリュームをクリア"/>
+	<MenuItem id="34775" caption="Draw Volume Profile Config" custom="ボリュームプロファイル描画コンフィグ"/>
+	<MenuItem id="34776" caption="Sell Triggered Stop" custom="トリガーストップ売り"/>
+	<MenuItem id="34777" caption="Buy Triggered Stop" custom="トリガーストップ買い"/>
+	<MenuItem id="34952" caption="Bulk Historical Data Download" custom="履歴データの一括ダウンロード"/>
+	<MenuItem id="34953" caption="Mute All Alert Sounds" custom="すべてのアラートサウンドをミュート"/>
+	<MenuItem id="34958" caption="Quote Spreadsheet" custom="クオートスプレッドシート"/>
+	<MenuItem id="34959" caption="Goto Chart Number" custom="チャート番号へ移動"/>
+	<MenuItem id="34960" caption="Import" custom="インポート"/>
+	<MenuItem id="34961" caption="Goto Spreadsheet" custom="スプレッドシートへ移動"/>
+	<MenuItem id="34962" caption="Export Bar Data to Text File" custom="バーデータをテキストファイルにエクスポート"/>
+	<MenuItem id="34963" caption="Link Chart Studies/Graphs" custom="チャートスタディ/グラフにリンク"/>
+	<MenuItem id="34964" caption="Link Days to Load" custom="ロードする日数にリンク"/>
+	<MenuItem id="34965" caption="Link Bar Spacing" custom="バーの空間にリンク"/>
+	<MenuItem id="34969" caption="Global Profit/Loss Management" custom="グローバル利益/損失管理"/>
+	<MenuItem id="34971" caption="Use Limit Chase Orders" custom="リミットチェイス注文を使用"/>
+	<MenuItem id="34974" caption="Buy Limit Chase" custom="追跡指値買い"/>
+	<MenuItem id="34975" caption="Sell Limit Chase" custom="追跡指値売り"/>
+	<MenuItem id="34976" caption="Trading Locked" custom="トレーディングをロックさせる"/>
+	<MenuItem id="34977" caption="Cut Single Drawing" custom="単一の描画を切り取り"/>
+	<MenuItem id="34978" caption="Cut Drawing Mode" custom="描画モードを切り取り"/>
+	<MenuItem id="34979" caption="Hide Single Drawing Level" custom="単一の描画レベルを非表示"/>
+	<MenuItem id="34980" caption="Hide Drawing Level Mode" custom="描画レベルのモードを非表示"/>
+	<MenuItem id="34981" caption="Alert Number For New High/Low" custom="新高値/安値のアラート番号"/>
+	<MenuItem id="34982" caption="Link Trade Window" custom="トレードウィンドウにリンク"/>
+	<MenuItem id="34985" caption="Use Chart Setting" custom="チャート設定を使用"/>
+	<MenuItem id="34986" caption="Draw Over Chart/Studies" custom="チャート/スタディの上に描画"/>
+	<MenuItem id="34987" caption="Draw Under Chart/Studies" custom="チャート/スタディの下に描画"/>
+	<MenuItem id="34989" caption="Draw Under/Over" custom="下/上に描く"/>
+	<MenuItem id="34990" caption="Chart Linking Across Chartbooks" custom="チャートをチャートブック間でリンク"/>
+	<MenuItem id="34991" caption="Hide Window" custom="ウィンドウを非表示"/>
+	<MenuItem id="34992" caption="Always on Top" custom="常に前面表示"/>
+	<MenuItem id="34993" caption="Save Log To File" custom="ログをファイルに保存"/>
+	<MenuItem id="34994" caption="Edit Alert" custom="アラートを編集"/>
+	<MenuItem id="34995" caption="Delete Alert" custom="アラートを削除"/>
+	<MenuItem id="34996" caption="Enable Alert" custom="アラートを有効化"/>
+	<MenuItem id="34997" caption="Disable Alert" custom="アラートを無効化"/>
+	<MenuItem id="34998" caption="Download Daily Data for All Symbols" custom="すべてのシンボルのデイリーデータをダウンロード"/>
+	<MenuItem id="35000" caption="Auto Set Alert Text Column Width" custom="アラートテキストの列幅の自動設定"/>
+	<MenuItem id="35001" caption="Reload Intraday Charts" custom="イントラデイチャートを再読み込み"/>
+	<MenuItem id="35002" caption="Reload Historical Charts" custom="ヒストリカルチャートを再読み込み"/>
+	<MenuItem id="35003" caption="Disable Visible Message Logging" custom="メッセージログの表示を無効化"/>
+	<MenuItem id="35004" caption="Export" custom="エクスポート"/>
+	<MenuItem id="35005" caption="Prior Sheet" custom="前のシート"/>
+	<MenuItem id="35006" caption="Next Sheet" custom="次のシート"/>
+	<MenuItem id="35007" caption="New Instance" custom="新規インスタンス"/>
+	<MenuItem id="35008" caption="Ignore Quantity on Load Configuration" custom="コンフィグ読み込みで数量を無視"/>
+	<MenuItem id="35009" caption="Set System Date-Time from Server" custom="サーバーからのシステム日時設定"/>
+	<MenuItem id="35010" caption="Download Data for Associated Watch List Symbols" custom="関連するウォッチリストのシンボルデータをダウンロード"/>
+	<MenuItem id="35011" caption="Export Bar and Study Data to Text File" custom="バーおよびスタディデータをテキストファイルにエクスポート"/>
+	<MenuItem id="35012" caption="Hide Chart Drawings From Other Charts" custom="他のチャートからチャート描画を非表示にする"/>
+	<MenuItem id="35013" caption="Create Desktop Shortcut" custom="デスクトップショートカットの作成"/>
+	<MenuItem id="35014" caption="Disable Statistics, Trades, Period Tabs" custom="統計、取引、期間タブを無効化"/>
+	<MenuItem id="35015" caption="Tile As Grid - Horizontally" custom="グリッドタイル - 水平"/>
+	<MenuItem id="35016" caption="Tile As Grid - Vertically" custom="グリッドタイル - 垂直"/>
+	<MenuItem id="35017" caption="Use Last in First out Fill Matching" custom="最後から最初への約定マッチングを使う"/>
+	<MenuItem id="35019" caption="Hide All Studies" custom="すべてのスタディを非表示"/>
+	<MenuItem id="35020" caption="Unhide All Studies" custom="すべてのスタディを再表示"/>
+	<MenuItem id="35022" caption="Correct Intraday File Bid Ask Volume" custom="イントラデイファイルのビッドアスクボリュームを修正"/>
+	<MenuItem id="35024" caption="Rollover Futures Symbols Now" custom="先物シンボルをロールオーバー"/>
+	<MenuItem id="35076" caption="Config 9" custom="コンフィグ9"/>
+	<MenuItem id="35077" caption="Config 10" custom="コンフィグ10"/>
+	<MenuItem id="35078" caption="Config 11" custom="コンフィグ11"/>
+	<MenuItem id="35079" caption="Config 12" custom="コンフィグ12"/>
+	<MenuItem id="35080" caption="Config 13" custom="コンフィグ13"/>
+	<MenuItem id="35081" caption="Config 14" custom="コンフィグ14"/>
+	<MenuItem id="35082" caption="Config 15" custom="コンフィグ15"/>
+	<MenuItem id="35083" caption="Config 16" custom="コンフィグ16"/>
+	<MenuItem id="35084" caption="Config 17" custom="コンフィグ17"/>
+	<MenuItem id="35085" caption="Config 18" custom="コンフィグ18"/>
+	<MenuItem id="35086" caption="Config 19" custom="コンフィグ19"/>
+	<MenuItem id="35087" caption="Config 20" custom="コンフィグ20"/>
+	<MenuItem id="35088" caption="Config 21" custom="コンフィグ21"/>
+	<MenuItem id="35089" caption="Config 22" custom="コンフィグ22"/>
+	<MenuItem id="35090" caption="Config 23" custom="コンフィグ23"/>
+	<MenuItem id="35091" caption="Config 24" custom="コンフィグ24"/>
+	<MenuItem id="35108" caption="Play/Pause" custom="再生/一時停止"/>
+	<MenuItem id="35109" caption="Stop" custom="停止"/>
+	<MenuItem id="35176" caption="Download Data From End of Chart" custom="チャートの終わりからデータをダウンロード"/>
+	<MenuItem id="35561" caption="Delete All Alerts" custom="すべてのアラートを削除"/>
+	<MenuItem id="35564" caption="Scale Range: User Defined" custom="スケール範囲：ユーザ定義"/>
+	<MenuItem id="35565" caption="Recalculate All Formulas" custom="すべての数式を再計算"/>
+	<MenuItem id="35570" caption="Exclude Evening Session Profiles" custom="イブニングセッションプロファイルを除外"/>
+	<MenuItem id="35572" caption="Link Vertical Scale" custom="垂直スケールにリンク"/>
+	<MenuItem id="35573" caption="Open Trading DOM for Chart" custom="トレーディングDOMを開く(アクティブチャート)"/>
+	<MenuItem id="35574" caption="Duplicate All Charts To Chartbook " custom="すべてのチャートをチャートブックに複製"/>
+	<MenuItem id="35576" caption="Auto Trading Enabled - Chart" custom="自動トレーディングを有効化 - チャート"/>
+	<MenuItem id="35577" caption="Create Parallel Line" custom="平行線を作成"/>
+	<MenuItem id="35578" caption="Move Targets to Price" custom="ターゲットを価格へ移動"/>
+	<MenuItem id="35580" caption="Move Attached Stops to Price" custom="添付ストップを価格へ移動"/>
+	<MenuItem id="35581" caption="Log Drawings Statistics" custom="描画統計ログ"/>
+	<MenuItem id="35582" caption="Enable Continuous Scanning" custom="連続スキャンを有効化"/>
+	<MenuItem id="35583" caption="Send File to User" custom="ユーザへファイルを送る"/>
+	<MenuItem id="35585" caption="Scale Range: User Defined with Auto Set" custom="スケール範囲：自動設定およびユーザー定義"/>
+	<MenuItem id="35586" caption="Buy Limit Touch Chase" custom="接触追跡指値買い"/>
+	<MenuItem id="35587" caption="Sell Limit Touch Chase" custom="接触追跡指値売り"/>
+	<MenuItem id="35598" caption="Cancel Orders on Flat Position " custom="フラットポジションでの注文をキャンセル"/>
+	<MenuItem id="35608" caption="Open Study Summary Window" custom="スタディサマリーウィンドウを開く"/>
+	<MenuItem id="35617" caption="Reset Quantities on Symbol Change" custom="シンボル変更時に数量をリセット"/>
+	<MenuItem id="35620" caption="Column Width" custom="列幅"/>
+	<MenuItem id="35621" caption="AutoTrade System Bar Based BackTest with Scan" custom="バーベースの自動トレードシステムバックテストおよびスキャン"/>
+	<MenuItem id="35622" caption="Sell Triggered Limit" custom="トリガー指値売り"/>
+	<MenuItem id="35623" caption="Buy Triggered Limit" custom="トリガー指値買い"/>
+	<MenuItem id="35624" caption="Sell Triggered Limit (Auto-Set)" custom="トリガー指値売り(自動セット)"/>
+	<MenuItem id="35625" caption="Buy Triggered Limit (Auto-Set)" custom="トリガー指値買い(自動セット)"/>
+	<MenuItem id="35626" caption="Remove Link Between Stop Attached Orders" custom="添付注文のストップ間リンクを除去"/>
+	<MenuItem id="35627" caption="Merge Profile Begin" custom="プロファイルのマージを開始"/>
+	<MenuItem id="35628" caption="Merge Profile End" custom="プロファイルのマージを終了"/>
+	<MenuItem id="35629" caption="Save Main Window to File" custom="メインウィンドウをファイルに保存"/>
+	<MenuItem id="35631" caption="Buy Market if Touched - Client" custom="接触後に成行買い - クライアント"/>
+	<MenuItem id="35632" caption="Sell Market if Touched - Client" custom="接触後に成行売り - クライアント"/>
+	<MenuItem id="35633" caption="Buy Limit if Touched - Client" custom="接触後に指値買い - クライアント"/>
+	<MenuItem id="35634" caption="Sell Limit if Touched - Client" custom="接触後に指値売り - クライアント"/>
+	<MenuItem id="35636" caption="1 - Graphics Settings" custom="グラフィック設定1"/>
+	<MenuItem id="35637" caption="2 - Graphics Settings" custom="グラフィック設定2"/>
+	<MenuItem id="35638" caption="3 - Graphics Settings" custom="グラフィック設定3"/>
+	<MenuItem id="35639" caption="4 - Graphics Settings" custom="グラフィック設定4"/>
+	<MenuItem id="35640" caption="5 - Graphics Settings" custom="グラフィック設定5"/>
+	<MenuItem id="35641" caption="6 - Graphics Settings" custom="グラフィック設定6"/>
+	<MenuItem id="35642" caption="7 - Graphics Settings" custom="グラフィック設定7"/>
+	<MenuItem id="35643" caption="8 - Graphics Settings" custom="グラフィック設定8"/>
+	<MenuItem id="35644" caption="9 - Graphics Settings" custom="グラフィック設定9"/>
+	<MenuItem id="35645" caption="10 - Graphics Settings" custom="グラフィック設定10"/>
+	<MenuItem id="35646" caption="11 - Graphics Settings" custom="グラフィック設定11"/>
+	<MenuItem id="35647" caption="12 - Graphics Settings" custom="グラフィック設定12"/>
+	<MenuItem id="35648" caption="13 - Graphics Settings" custom="グラフィック設定13"/>
+	<MenuItem id="35649" caption="14 - Graphics Settings" custom="グラフィック設定14"/>
+	<MenuItem id="35650" caption="15 - Graphics Settings" custom="グラフィック設定15"/>
+	<MenuItem id="35651" caption="16 - Graphics Settings" custom="グラフィック設定16"/>
+	<MenuItem id="35652" caption="17 - Graphics Settings" custom="グラフィック設定17"/>
+	<MenuItem id="35653" caption="18 - Graphics Settings" custom="グラフィック設定18"/>
+	<MenuItem id="35654" caption="19 - Graphics Settings" custom="グラフィック設定19"/>
+	<MenuItem id="35655" caption="20 - Graphics Settings" custom="グラフィック設定20"/>
+	<MenuItem id="35656" caption="Attach/Detach Window" custom="ウィンドウの取り付け/取り外し"/>
+	<MenuItem id="35657" caption="Settings Window" custom="ウィンドウ設定"/>
+	<MenuItem id="35661" caption="Disable Trade Activity Log" custom="トレードアクティビティログを無効化"/>
+	<MenuItem id="35668" caption="Include Begin/End Indicators in Trades List" custom="トレードリストに開始/終了インジケーターを含める"/>
+	<MenuItem id="35669" caption="Delete Completed Alerts" custom="完了したアラートを削除"/>
+	<MenuItem id="35671" caption="Clear Current Traded Bid/Ask Volume Above" custom="上部の現在取引されたビッドアスクボリュームをクリア"/>
+	<MenuItem id="35672" caption="Clear Current Traded Bid/Ask Volume Below" custom="下部の現在取引されたビッドアスクボリュームをクリア"/>
+	<MenuItem id="35673" caption="Flat to Flat Display For Trades List" custom="トレードリストのフラット・トゥ・フラットを表示"/>
+	<MenuItem id="35681" caption="Always On Top" custom="常に前面表示"/>
+	<MenuItem id="35682" caption="Alternate" custom="オルタネート"/>
+	<MenuItem id="35684" caption="Clear Pulling and Stacking Data" custom="データのプルとスタッキングをクリア"/>
+	<MenuItem id="35685" caption="[Trade Activity]" custom="[トレードアクティビティ]"/>
+	<MenuItem id="35686" caption="[Statistics]" custom="[統計]"/>
+	<MenuItem id="35687" caption="[Trades]" custom="[トレード]"/>
+	<MenuItem id="35688" caption="[Period Stats]" custom="[統計期間]"/>
+	<MenuItem id="35689" caption="[Chart Stats]" custom="[チャート統計]"/>
+	<MenuItem id="35690" caption="Duplicate and Edit Drawing" custom="描画の複製と編集"/>
+	<MenuItem id="35691" caption="Order Allocation to Trade Accounts" custom="トレードアカウントへの注文割り当て"/>
+	<MenuItem id="35692" caption="Open Chartbook Group" custom="チャートブックグループを開く"/>
+	<MenuItem id="35693" caption="Constant Range: Manual Mode" custom="一定範囲：手動"/>
+	<MenuItem id="35694" caption="Constant Range: Re-Center To The Last Bar On Every Update" custom="一定範囲：更新ごとに最後のバーをセンタリング"/>
+	<MenuItem id="35695" caption="Constant Range: Re-Center To The Last Price On Every Update" custom="一定範囲：更新ごとに最後の価格をセンタリング"/>
+	<MenuItem id="35696" caption="Constant Range: Keep The Last Bar Within View" custom="一定範囲：最後のバーをビュー内に保つ"/>
+	<MenuItem id="35697" caption="Constant Range: Re-Center When The Last Bar Exceeds A Certain Number Of Ticks From The Center" custom="一定範囲：最後のバーが中心から特定ティック数を超過時にセンタリング"/>
+	<MenuItem id="35698" caption="Translate Symbols To Current Service" custom="シンボルを現在のサービスに変換する"/>
+	<MenuItem id="35701" caption="Jump Backward" custom="後へ移動"/>
+	<MenuItem id="35702" caption="Jump Forward" custom="先へ移動"/>
+	<MenuItem id="35736" caption="Filter Initial Fills Part of Existing Position" custom="既存ポジションの一部を最初に約定させるフィルタ"/>
+	<MenuItem id="35737" caption="Add Symbol Alert" custom="シンボルアラートの追加"/>
+	<MenuItem id="35738" caption="Add Time Alert" custom="時間アラートの追加"/>
+	<MenuItem id="35739" caption="Close Window When Goto Chart" custom="チャートに移動時ウィンドウを閉じる"/>
+	<MenuItem id="35740" caption="[Log]" custom="[ログ]"/>
+	<MenuItem id="35741" caption="[Symbol Alert]" custom="[シンボルアラート]"/>
+	<MenuItem id="35742" caption="[Time Alert]" custom="[時間アラート]"/>
+	<MenuItem id="35746" caption="Open System Message in Browser" custom="ブラウザでシステムメッセージを開く"/>
+	<MenuItem id="35765" caption="Trade Orders Window" custom="トレード注文ウィンドウ"/>
+	<MenuItem id="35766" caption="Trade Positions Window" custom="トレードポジションウィンドウ"/>
+	<MenuItem id="35767" caption="Trade Account Monitor/Balances Window" custom="トレードアカウントモニター/残高ウィンドウ"/>
+	<MenuItem id="35769" caption="Clear Recent Bid/Ask Volume - All Symbols" custom="最近のビッドアスクボリュームをクリア - すべてのシンボル"/>
+	<MenuItem id="35770" caption="Clear Current Traded Bid/Ask Volume - All Symbols" custom="現在取引されているビッドアスクボリュームをクリア - すべてのシンボル"/>
+	<MenuItem id="35772" caption="QuickTest_2" custom="クイックテスト2"/>
+	<MenuItem id="35773" caption="QuickTest_3" custom="クイックテスト3"/>
+	<MenuItem id="35774" caption="QuickTest_4" custom="クイックテスト4"/>
+	<MenuItem id="35778" caption="Reset Scales - All Charts" custom="すべてのチャートのスケールをリセット"/>
+	<MenuItem id="35779" caption="Move Expired Data Files to Subfolders" custom="期限切れデータファイルをサブフォルダに移動"/>
+	<MenuItem id="35780" caption="Link Trade Quote Symbol" custom="クオートシンボルのトレードにリンク"/>
+	<MenuItem id="35781" caption="[AccStats]" custom="統計精度"/>
+	<MenuItem id="35782" caption="Convert Trade Activity Format" custom="トレードアクティビティのフォーマットを変換"/>
+	<MenuItem id="35783" caption="Allow Copy To Other Charts" custom="他のチャートへのコピーを許可"/>
+	<MenuItem id="35784" caption="Sub Period Style - Block/Letters" custom="サブピリオドスタイル - ブロック/レター"/>
+	<MenuItem id="35785" caption="Chart Values On/Off" custom="チャートの値  オン/オフ"/>
+	<MenuItem id="35786" caption="Goto Next Chart Fill" custom="次のチャートフィルに移動"/>
+	<MenuItem id="35787" caption="Goto Previous Chart Fill" custom="前のチャートフィルに移動"/>
+	<MenuItem id="35789" caption="Customize Chart Header - Trade DOM" custom="チャートヘッダのカスタマイズ - トレードDOM"/>
+	<MenuItem id="35790" caption="Open Chat Window" custom="チャットウィンドウを開く"/>
+	<MenuItem id="35792" caption="User Discussion/Programming Help" custom="ユーザディスカッション/プログラミングヘルプ"/>
+	<MenuItem id="35793" caption="Disable All Alerts - Chart" custom="チャートのアラートを無効化"/>
+	<MenuItem id="35794" caption="Disable All Alerts - Chartbook" custom="チャートブックのアラートを無効化"/>
+	<MenuItem id="35795" caption="Recalculate All Charts" custom="すべてのチャートを再計算"/>
+	<MenuItem id="35796" caption="Sierra Chart Server Settings" custom="Sierra Chart サーバ設定"/>
+	<MenuItem id="35997" caption="Letters/Blocks In Own Column And Standard Profile" custom="自身の列のレター/ブロックおよびスタンダードプロファイル"/>
+	<MenuItem id="35998" caption="Letters/Blocks In Own Column And Standard Profile - All Profiles" custom="自身の列のレター/ブロックおよびスタンダードプロファイル - すべてのプロファイル"/>
+	<MenuItem id="35999" caption="Reset All Profiles To Default Display Style" custom="すべてのプロファイルをデフォルトの表示スタイルにリセット"/>
+	<MenuItem id="36000" caption="Export To CME Audit Log" custom="CME監査ログへエクスポート"/>
+	<MenuItem id="36001" caption="Advanced Service Settings" custom="高度なサービス設定"/>
+	<MenuItem id="36003" caption="Hide Trade Account List" custom="トレードアカウントリストを非表示"/>
+	<MenuItem id="36006" caption="Intraday Data File Management" custom="イントラデイデータファイルの管理"/>
+	<MenuItem id="36007" caption="Proxy Settings" custom="プロキシ設定"/>
+	<MenuItem id="36008" caption="Time Zone Settings" custom="タイムゾーン設定"/>
+	<MenuItem id="36019" caption="Server Status Monitoring Window" custom="サーバステータス監視ウィンドウ"/>
+	<MenuItem id="36024" caption="Display Delete Confirmation Prompt" custom="削除確認画面を表示"/>
+	<MenuItem id="36025" caption="Global Trade Positions Window" custom="グローバルトレードポジションウィンドウ"/>
+	<MenuItem id="36026" caption="Angled Ellipse" custom="角度付き楕円"/>
+	<MenuItem id="36027" caption="Download Files Window" custom="ファイルウィンドウのダウンロード"/>
+	<MenuItem id="36028" caption="Dump Records File to Text File" custom="レコードファイルをテキストファイルに出力"/>
+	<MenuItem id="36029" caption="Export To FairX Audit Log" custom="FairX監査ログへエクスポート"/>
+	<MenuItem id="36031" caption="Connect" custom="接続"/>
+	<MenuItem id="36032" caption="Disconnect" custom="切断"/>
+	<MenuItem id="57607" caption="Print" custom="印刷"/>
+	<MenuItem id="57650" caption="Cascade" custom="少し重ねて表示"/>
+</MenuCustomizations>
