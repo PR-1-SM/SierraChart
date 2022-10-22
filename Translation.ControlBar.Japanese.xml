@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<control-bar-translations>
+
+	<ID3>
+       <short-caption>OC</short-caption>
+       <caption>チャートブックを開く</caption>
+       <description>チャートブックを開く</description>
+    </ID3>
+
+	<ID1128>
+       <short-caption>OCG</short-caption>
+       <caption>チャートブックグループを開く</caption>
+       <description>チャートブックグループを開く</description>
+    </ID1128>
+
+	<ID9>
+       <short-caption>Sv</short-caption>
+       <caption>保存</caption>
+       <description>保存</description>       
+    </ID9>
+
+	<ID10>
+       <short-caption>SA</short-caption>
+       <caption>すべて保存</caption>
+       <description>すべて保存</description>       
+    </ID10>
+
+	<ID15>
+       <short-caption>Cut</short-caption>
+       <caption>切り取り</caption>
+       <description>切り取り</description>       
+    </ID15>
+
+	<ID16>
+       <short-caption>Cpy</short-caption>
+       <caption>コピー</caption>
+       <description>コピー</description>       
+    </ID16>
+
+	<ID17>
+       <short-caption>Pst</short-caption>
+       <caption>貼り付け</caption>
+       <description>貼り付け</description>       
+    </ID17>
+
+	<ID30>
+       <short-caption>SW</short-caption>
+       <caption>スタディウィンドウ</caption>
+       <description>スタディウィンドウ</description> 
+    </ID30>
+
+	<ID85>
+       <short-caption>UES</short-caption>
+       <caption>イブニング/フルセッション</caption>
+       <description>イブニング/フルセッション</description> 
+    </ID85>
+
+	<ID157>
+       <short-caption>FS</short-caption>
+       <caption>シンボルを探す</caption>
+       <description>シンボルを探す</description>       
+    </ID157>
+
+	<ID84>
+       <short-caption>GDT</short-caption>
+       <caption>日時を表示</caption>
+       <description>日時を表示</description> 
+    </ID84>
+
+	<ID175>
+       <short-caption>LogS</short-caption>
+       <caption>ログスケール</caption>
+       <description>ログスケール</description>       
+    </ID175>
+
+	<ID161>
+       <short-caption>GCO</short-caption>
+       <caption>グローバルカーソルをオン</caption>
+       <description>グローバルカーソルをオン</description>       
+    </ID161>
+
+	<ID340>
+       <short-caption>SCO</short-caption>
+       <caption>シンボルカーソルをオン</caption>
+       <description>シンボルカーソルをオン</description> 
+    </ID340>
+
+	<ID23>
+       <short-caption>CS</short-caption>
+       <caption>チャート設定</caption>
+       <description>チャート設定</description>  
+    </ID23>
+
+	<ID324>
+       <short-caption>MCD</short-caption>
+       <caption>チャート描画設定</caption>
+       <description>チャート描画設定</description> 	   
+    </ID324>
+
+	<ID302>
+       <short-caption>TC 1</short-caption>
+       <caption>ツール設定1</caption>
+       <description>ツール設定1</description>       
+    </ID302>
+
+	<ID303>
+       <short-caption>TC 2</short-caption>
+       <caption>ツール設定2</caption>
+       <description>ツール設定2</description>       
+    </ID303>
+
+	<ID304>
+       <short-caption>TC 3</short-caption>
+       <caption>ツール設定3</caption>
+       <description>ツール設定3</description>       
+    </ID304>
+
+	<ID305>
+       <short-caption>TC 4</short-caption>
+       <caption>ツール設定4</caption>
+       <description>ツール設定4</description>       
+    </ID305>
+
+	<ID306>
+       <short-caption>TC 5</short-caption>
+       <caption>ツール設定5</caption>
+       <description>ツール設定5</description>       
+    </ID306>
+
+	<ID307>
+       <short-caption>TC 6</short-caption>
+       <caption>ツール設定6</caption>
+       <description>ツール設定6</description>       
+    </ID307>
+
+	<ID308>
+       <short-caption>TC 7</short-caption>
+       <caption>ツール設定7</caption>
+       <description>ツール設定7</description>       
+    </ID308>
+
+	<ID309>
+       <short-caption>TC 8</short-caption>
+       <caption>ツール設定8</caption>
+       <description>ツール設定8</description>       
+    </ID309>
+
+	<ID827>
+       <short-caption>TC 9</short-caption>
+       <caption>ツール設定9</caption>
+       <description>ツール設定9</description>       
+    </ID827>
+
+	<ID828>
+       <short-caption>TC 10</short-caption>
+       <caption>ツール設定10</caption>
+       <description>ツール設定10</description>       
+    </ID828>
+
+	<ID829>
+       <short-caption>TC 11</short-caption>
+       <caption>ツール設定11</caption>
+       <description>ツール設定11</description>       
+    </ID829>
+
+	<ID830>
+       <short-caption>TC 12</short-caption>
+       <caption>ツール設定12</caption>
+       <description>ツール設定12</description>       
+    </ID830>
+
+	<ID831>
+       <short-caption>TC 13</short-caption>
+       <caption>ツール設定13</caption>
+       <description>ツール設定13</description>       
+    </ID831>
+
+	<ID832>
+       <short-caption>TC 14</short-caption>
+       <caption>ツール設定14</caption>
+       <description>ツール設定14</description>       
+    </ID832>
+
+	<ID833>
+       <short-caption>TC 15</short-caption>
+       <caption>ツール設定15</caption>
+       <description>ツール設定15</description>       
+    </ID833>
+
+	<ID834>
+       <short-caption>TC 16</short-caption>
+       <caption>ツール設定16</caption>
+       <description>ツール設定16</description>       
+    </ID834>
+
+	<ID835>
+       <short-caption>TC 17</short-caption>
+       <caption>ツール設定17</caption>
+       <description>ツール設定17</description>       
+    </ID835>
+
+	<ID836>
+       <short-caption>TC 18</short-caption>
+       <caption>ツール設定18</caption>
+       <description>ツール設定18</description>       
+    </ID836>
+
+	<ID837>
+       <short-caption>TC 19</short-caption>
+       <caption>ツール設定19</caption>
+       <description>ツール設定19</description>       
+    </ID837>
+
+	<ID838>
+       <short-caption>TC 20</short-caption>
+       <caption>ツール設定20</caption>
+       <description>ツール設定20</description>       
+    </ID838>
+
+	<ID839>
+       <short-caption>TC 21</short-caption>
+       <caption>ツール設定21</caption>
+       <description>ツール設定21</description>      
+    </ID839>
+
+	<ID840>
+       <short-caption>TC 22</short-caption>
+       <caption>ツール設定22</caption>
+       <description>ツール設定22</description>      
+    </ID840>
+
+	<ID841>
+       <short-caption>TC 23</short-caption>
+       <caption>ツール設定23</caption>
+       <description>ツール設定23</description>      
+    </ID841>
+
+	<ID842>
+       <short-caption>TC 24</short-caption>
+       <caption>ツール設定24</caption>
+       <description>ツール設定24</description>       
+    </ID842>
+
+	<ID26>
+       <short-caption>&lt;|&gt;</short-caption>
+       <caption>バーの間隔を大きく開く</caption>
+       <description>バーの間隔を大きく開く(PageUp)</description>       
+    </ID26>
+
+	<ID28>
+       <short-caption>&gt;|&lt;</short-caption>
+       <caption>バーの間隔を狭くする</caption>
+       <description>バーの間隔を狭くする(下矢印キー)</description>       
+    </ID28>
+
+	<ID29>
+       <short-caption>&gt;&gt;|&lt;&lt;</short-caption>
+       <caption>バーの間隔を大きく狭くする</caption>
+       <description>バーの間隔を大きく狭くする(PageDown)</description>       
+    </ID29>
+
+	<ID1>
+       <short-caption>HC</short-caption>
+       <caption>ヒストリカルチャートを新しく開く</caption>
+       <description>ヒストリカルチャートを新しく開く</description>       
+    </ID1>
+
+	<ID2>
+       <short-caption>IC</short-caption>
+       <caption>イントラデイチャートを新しく開く</caption>
+       <description>イントラデイチャートを新しく開く</description>       
+    </ID2>
+
+	<ID908>
+       <short-caption>OTDC</short-caption>
+       <caption>トレーディングチャートDOMを開く</caption>
+       <description>トレーディングチャートDOMを開く</description>       
+    </ID908>
+
+	<ID4>
+       <short-caption>NC</short-caption>
+       <caption>チャートブックを開く</caption>
+       <description>チャートブックを開く</description>       
+    </ID4>
+
+	<ID5>
+       <short-caption>CC</short-caption>
+       <caption>チャートブックを閉じる</caption>
+       <description>チャートブックを閉じる</description>       
+    </ID5>
+
+	<ID6>
+       <short-caption>CAW</short-caption>
+       <caption>アクティブなウィンドウを閉じる</caption>
+       <description>アクティブなウィンドウを閉じる</description>       
+    </ID6>
+
+	<ID7>
+       <short-caption>NS</short-caption>
+       <caption>新しいスプレッドシートを作成</caption>
+       <description>新しいスプレッドシートを作成</description>       
+    </ID7>
+
+	<ID8>
+       <short-caption>OS</short-caption>
+       <caption>スプレッドシートを開く</caption>
+       <description>スプレッドシートを開く</description>       
+    </ID8>
+
+	<ID11>
+       <short-caption>DTS</short-caption>
+       <caption>データ/トレードサービス設定</caption>
+       <description>データ/トレードサービス設定</description>       
+    </ID11>
+
+	<ID1191>
+       <short-caption>SCSS</short-caption>
+       <caption>SCサーバ設定</caption>
+       <description>Sierra Chartサーバ設定</description>       
+    </ID1191>
+
+	<ID12>
+       <short-caption>Con</short-caption>
+       <caption>接続</caption>
+       <description>接続する</description>       
+    </ID12>
+
+	<ID13>
+       <short-caption>Dis</short-caption>
+       <caption>切断</caption>
+       <description>切断する</description>       
+    </ID13>
+
+	<ID315>
+       <short-caption>CCI</short-caption>
+       <caption>チャートを画像としてコピー</caption>
+       <description>チャートを画像としてコピー</description>       
+    </ID315>
+
+	<ID18>
+       <short-caption>CCV</short-caption>
+       <caption>チャートの値をコピー</caption>
+       <description>チャートの値をコピー</description>       
+    </ID18>
+
+	<ID20>
+       <short-caption>AD</short-caption>
+       <caption>データを調整</caption>
+       <description>データを調整</description>       
+    </ID20>
+
+	<ID768>
+       <short-caption>RIC</short-caption>
+       <caption>イントラデイチャートを再読み込み</caption>
+       <description>イントラデイチャートを再読み込み</description>       
+    </ID768>
+
+	<ID767>
+       <short-caption>RHC</short-caption>
+       <caption>ヒストリカルチャートを再読み込み</caption>
+       <description>ヒストリカルチャートを再読み込み</description>       
+    </ID767>
+
+	<ID22>
+       <short-caption>RAC</short-caption>
+       <caption>すべてのチャートを再読み込み</caption>
+       <description>すべてのチャートを再読み込み</description>       
+    </ID22>
+
+	<ID274>
+       <short-caption>CGS</short-caption>
+       <caption>チャートのグラフィック設定</caption>
+       <description>チャートのグラフィック設定</description>        
+    </ID274>
+
+	<ID25>
+       <short-caption>NF</short-caption>
+       <caption>次のファイル</caption>
+       <description>次のファイル</description>       
+    </ID25>
+
+	<ID24>
+       <short-caption>PF</short-caption>
+       <caption>前のファイル</caption>
+       <description>前のファイル</description>       
+    </ID24>
+
+	<ID31>
+       <short-caption>Ptr</short-caption>
+       <caption>カーソル</caption>
+       <description>カーソル</description>       
+    </ID31>
+
+	<ID33>
+       <short-caption>CVT</short-caption>
+       <caption>チャート数値</caption>
+       <description>チャート数値</description>       
+    </ID33>
+
+	<ID95>
+       <short-caption>Hand</short-caption>
+       <caption>手書き</caption>
+       <description>手書き</description>       
+    </ID95>
+
+	<ID34>
+       <short-caption>AdjReg</short-caption>
+       <caption>領域調整</caption>
+       <description>領域調整</description>       
+    </ID34>
+
+	<ID227>
+       <short-caption>StaT</short-caption>
+       <caption>固定テキスト</caption>
+       <description>固定テキスト</description>   
+    </ID227>
+
+	<ID35>
+       <short-caption>Line</short-caption>
+       <caption>ライン</caption>
+       <description>ライン</description>       
+    </ID35>
+
+	<ID312>
+       <short-caption>ExtLine</short-caption>
+       <caption>延長線</caption>
+       <description>延長線</description>       
+    </ID312>
+
+	<ID74>
+       <short-caption>PFork</short-caption>
+       <caption>ピッチフォーク</caption>
+       <description>ピッチフォーク</description>       
+    </ID74>
+
+	<ID89>
+       <short-caption>PForkSM</short-caption>
+       <caption>ピッチフォーク - シフ中央値</caption>
+       <description>ピッチフォーク - シフ中央値</description>       
+    </ID89>
+
+	<ID90>
+       <short-caption>PForkMS</short-caption>
+       <caption>ピッチフォーク - 修正シフ</caption>
+       <description>ピッチフォーク - 修正シフ</description>      
+    </ID90>
+
+	<ID37>
+       <short-caption>PrcRetrc</short-caption>
+       <caption>元に戻す</caption>
+       <description>元に戻す</description>       
+    </ID37>
+
+	<ID66>
+       <short-caption>PrcProj</short-caption>
+       <caption>価格予測</caption>
+       <description>価格予測</description>       
+    </ID66>
+
+	<ID41>
+       <short-caption>Text</short-caption>
+       <caption>テキスト</caption>
+       <description>テキスト</description>      
+    </ID41>
+
+	<ID320>
+       <short-caption>PrcExp</short-caption>
+       <caption>延長</caption>
+       <description>延長</description>      
+    </ID320>
+
+	<ID32>
+       <short-caption>ChtCalc</short-caption>
+       <caption>チャート計算機</caption>
+       <description>チャート計算機ツール</description>       
+    </ID32>
+
+	<ID69>
+       <short-caption>Ellp</short-caption>
+       <caption>楕円形</caption>
+       <description>楕円形</description>       
+    </ID69>
+
+	<ID766>
+       <short-caption>Trig</short-caption>
+       <caption>三角形</caption>
+       <description>三角形</description>       
+    </ID766>
+
+	<ID73>
+       <short-caption>LineReg</short-caption>
+       <caption>線形回帰</caption>
+       <description>線形回帰</description>       
+    </ID73>
+
+	<ID301>
+       <short-caption>RaffReg</short-caption>
+       <caption>ラフ回帰チャネル</caption>
+       <description>ラフ回帰チャネル</description>       
+    </ID301>
+
+	<ID317>
+       <short-caption>ParLine</short-caption>
+       <caption>平行線</caption>
+       <description>平行線</description>        
+    </ID317>
+
+	<ID70>
+       <short-caption>Rect</short-caption>
+       <caption>長方形</caption>
+       <description>長方形</description>       
+    </ID70>
+
+	<ID76>
+       <short-caption>TmExp</short-caption>
+       <caption>時間延長</caption>
+       <description>時間延長</description>      
+    </ID76>
+
+	<ID36>
+       <short-caption>Ray</short-caption>
+       <caption>放射線</caption>
+       <description>放射線</description>       
+    </ID36>
+
+	<ID43>
+       <short-caption>Arw</short-caption>
+       <caption>矢印</caption>
+       <description>矢印</description>       
+    </ID43>
+
+	<ID323>
+       <short-caption>TmProj</short-caption>
+       <caption>時間予測</caption>
+       <description>時間予測</description>       
+    </ID323>
+
+	<ID318>
+       <short-caption>ParRays</short-caption>
+       <caption>平行放射</caption>
+       <description>平行放射</description>       
+    </ID318>
+
+	<ID39>
+       <short-caption>VertLine</short-caption>
+       <caption>垂直線</caption>
+       <description>垂直線</description>       
+    </ID39>
+
+	<ID40>
+       <short-caption>HorLine</short-caption>
+       <caption>水平線</caption>
+       <description>水平線</description>       
+    </ID40>
+
+	<ID329>
+       <short-caption>HorRay</short-caption>
+       <caption>水平放射</caption>
+       <description>水平放射</description>       
+    </ID329>
+
+	<ID599>
+       <short-caption>HorLnNE</short-caption>
+       <caption>非拡張水平線</caption>
+       <description>非拡張水平線</description>       
+    </ID599>
+
+	<ID72>
+       <short-caption>GnFn</short-caption>
+       <caption>ギャン・ファン</caption>
+       <description>ギャン・ファン</description>       
+    </ID72>
+
+	<ID267>
+       <short-caption>FibFn</short-caption>
+       <caption>フィボナッチ・ファン</caption>
+       <description>フィボナッチ・ファン</description>       
+    </ID267>
+
+	<ID75>
+       <short-caption>Cyc</short-caption>
+       <caption>サイクル</caption>
+       <description>サイクル</description> 
+    </ID75>
+
+	<ID96>
+       <short-caption>ExtRect</short-caption>
+       <caption>拡張長方形</caption>
+       <description>拡張長方形</description>       
+    </ID96>
+
+	<ID247>
+       <short-caption>ZgZg</short-caption>
+       <caption>ジグザグ</caption>
+       <description>ジグザグ</description>       
+    </ID247>
+
+	<ID163>
+       <short-caption>GnGrd</short-caption>
+       <caption>ギャン・グリッド</caption>
+       <description>ギャン・グリッド</description>       
+    </ID163>
+
+	<ID325>
+       <short-caption>Mkr</short-caption>
+       <caption>マークアップ</caption>
+       <description>マークアップ</description> 
+    </ID325>
+
+	<ID370>
+       <short-caption>RR</short-caption>
+       <caption>リスクリワード</caption>
+       <description>リスクリワード</description>       
+    </ID370>
+
+	<ID596>
+       <short-caption>SWM</short-caption>
+       <caption>価格マーカー</caption>
+       <description>価格マーカー</description>       
+    </ID596>
+
+	<ID597>
+       <short-caption>DM</short-caption>
+       <caption>Date\nMarkr</caption>
+       <description>日付マーカー</description>       
+    </ID597>
+
+	<ID598>
+       <short-caption>OHLC</short-caption>
+       <caption>OHLC放射線</caption>
+       <description>OHLC放射線</description>       
+    </ID598>
+
+	<ID316>
+       <short-caption>HCD</short-caption>
+       <caption>チャートの描画を非表示</caption>
+       <description>チャートの描画を非表示</description>       
+    </ID316>
+
+	<ID772>
+       <short-caption>HDFOC</short-caption>
+       <caption>他のチャートからチャート描画を非表示</caption>
+       <description>他のチャートからチャート描画を非表示にする</description>      
+    </ID772>
+
+	<ID326>
+       <short-caption>IBT</short-caption>
+       <caption>バーの間隔を広げる</caption>
+       <description>バーの間隔を広げる</description>       
+    </ID326>
+
+	<ID327>
+       <short-caption>DBT</short-caption>
+       <caption>バーの間隔を狭くする</caption>
+       <description>バーの間隔を狭くする</description>       
+    </ID327>
+
+	<ID328>
+       <short-caption>RstBar</short-caption>
+       <caption>バーの間隔をリセット</caption>
+       <description>バーの間隔をリセット</description>      
+    </ID328>
+
+	<ID44>
+       <short-caption>Rpl</short-caption>
+       <caption>チャート再生</caption>
+       <description>チャート再生</description>       
+    </ID44>
+
+	<ID1089>
+       <short-caption>RplPlPs</short-caption>
+       <caption>チャート再生/停止</caption>
+       <description>チャート再生/停止</description> 
+    </ID1089>
+
+	<ID1090>
+       <short-caption>RplStp</short-caption>
+       <caption>チャートの再生を停止</caption>
+       <description>チャートの再生を停止</description>       
+    </ID1090>
+
+	<ID1131>
+       <short-caption>RplJmpBckwrd</short-caption>
+       <caption>チャートの再生を後ろへ</caption>
+       <description>チャートの再生を後ろへ</description>        
+    </ID1131>
+
+	<ID1132>
+       <short-caption>RplJmpFrwrd</short-caption>
+       <caption>チャートの再生を前へ</caption>
+       <description>チャートの再生を前へ</description>       
+    </ID1132>
+
+	<ID46>
+       <short-caption>Snp</short-caption>
+       <caption>高値/安値に合わせる</caption>
+       <description>高値/安値に合わせる</description>      
+    </ID46>
+
+	<ID300>
+       <short-caption>ASA</short-caption>
+       <caption>チャート調整時にバーを揃える</caption>
+       <description>チャート調整時にバーを揃える</description> 
+    </ID300>
+
+	<ID322>
+       <short-caption>ASCA</short-caption>
+       <caption>チャート作成/調整時にバーを揃える</caption>
+       <description>チャート作成/調整時にバーを揃える</description>       
+    </ID322>
+
+	<ID319>
+       <short-caption>ASC</short-caption>
+       <caption>チャート作成時にバーを揃える</caption>
+       <description>チャート作成時にバーを揃える</description>       
+    </ID319>
+
+	<ID56>
+       <short-caption>TVW</short-caption>
+       <caption>ツール値ウィンドウ</caption>
+       <description>ツール値ウィンドウ</description> 
+    </ID56>
+
+	<ID47>
+       <short-caption>MCD</short-caption>
+       <caption>チャート描画を移動</caption>
+       <description>チャート描画を移動</description> 
+    </ID47>
+
+	<ID48>
+       <short-caption>ACD</short-caption>
+       <caption>チャート描画を調整</caption>
+       <description>チャート描画を調整</description> 
+    </ID48>
+
+	<ID112>
+       <short-caption>CMCD</short-caption>
+       <caption>チャート描画のコピーと移動</caption>
+       <description>チャート描画のコピーと移動</description>       
+    </ID112>
+
+	<ID110>
+       <short-caption>CACD</short-caption>
+       <caption>チャート描画のコピーと調整</caption>
+       <description>チャート描画のコピーと調整</description>       
+    </ID110>
+
+	<ID49>
+       <short-caption>ECD</short-caption>
+       <caption>チャート描画を削除</caption>
+       <description>チャート描画を削除</description>       
+    </ID49>
+
+	<ID50>
+       <short-caption>ELD</short-caption>
+       <caption>前のチャート描画を削除</caption>
+       <description>前のチャート描画を削除</description> 
+    </ID50>
+
+	<ID51>
+       <short-caption>ESD</short-caption>
+       <caption>チャート描画を削除</caption>
+       <description>チャート描画を削除</description> 
+    </ID51>
+
+	<ID52>
+       <short-caption>EAL</short-caption>
+       <caption>すべてのラインを削除</caption>
+       <description>すべてのラインを削除</description>
+    </ID52>
+
+	<ID53>
+       <short-caption>EAT</short-caption>
+       <caption>すべてのテキストを削除</caption>
+       <description>すべてのテキストを削除</description>
+    </ID53>
+
+	<ID54>
+       <short-caption>CQW</short-caption>
+       <caption>現在の見積もりウィンドウ</caption>
+       <description>現在の見積もりウィンドウ</description>       
+    </ID54>
+
+	<ID55>
+       <short-caption>CVW</short-caption>
+       <caption>チャート値ウィンドウ</caption>
+       <description>チャート値ウィンドウ</description>
+    </ID55>
+
+	<ID62>
+       <short-caption>PC</short-caption>
+       <caption>前のチャート</caption>
+       <description>前のチャート</description>       
+    </ID62>
+
+	<ID63>
+       <short-caption>NC</short-caption>
+       <caption>次のチャート</caption>
+       <description>次のチャート</description>       
+    </ID63>
+
+	<ID752>
+       <short-caption>GCN</short-caption>
+       <caption>チャート番号を表示</caption>
+       <description>チャート番号を表示</description>       
+    </ID752>
+
+	<ID64>
+       <short-caption>Log</short-caption>
+       <caption>メッセージログ</caption>
+       <description>メッセージログ</description>       
+    </ID64>
+
+	<ID65>
+       <short-caption>WS</short-caption>
+       <caption>ウェブサイト</caption>
+       <description>ウェブサイト</description>  
+    </ID65>
+
+	<ID342>
+       <short-caption>SCI</short-caption>
+       <caption>チャートを画像として保存</caption>
+       <description>チャートを画像として保存</description>       
+    </ID342>
+
+	<ID387>
+       <short-caption>SCIH</short-caption>
+       <caption>チャートを画像として名前を付けて保存</caption>
+       <description>チャートを画像として名前を付けて保存</description>      
+    </ID387>
+
+	<ID67>
+       <short-caption>UCI</short-caption>
+       <caption>チャートの画像をアップロード</caption>
+       <description>チャートの画像をアップロード</description>     
+    </ID67>
+
+	<ID68>
+       <short-caption>UMWI</short-caption>
+       <caption>メインウィンドウの画像をアップロード</caption>
+       <description>メインウィンドウの画像をアップロード</description>  
+    </ID68>
+
+	<ID71>
+       <short-caption>OIL</short-caption>
+       <caption>画像アップロードのログを開く</caption>
+       <description>画像アップロードのログを開く</description>       
+    </ID71>
+
+	<ID78>
+       <short-caption>CDP</short-caption>
+       <caption>チャート描画設定</caption>
+       <description>チャート描画設定</description>       
+    </ID78>
+
+	<ID45>
+       <short-caption>NCb</short-caption>
+       <caption>次のチャートブック</caption>
+       <description>次のチャートブック</description>       
+    </ID45>
+
+	<ID83>
+       <short-caption>PCb</short-caption>
+       <caption>最後のチャートブック</caption>
+       <description>最後のチャートブック</description>       
+    </ID83>
+
+	<ID86>
+       <short-caption>HTW</short-caption>
+       <caption>すべてのトレードウィンドウを非表示</caption>
+       <description>すべてのトレードウィンドウを非表示</description>       
+    </ID86>
+
+	<ID87>
+       <short-caption>RTW</short-caption>
+       <caption>すべてのトレードウィンドウを復元</caption>
+       <description>すべてのトレードウィンドウを復元</description>
+    </ID87>
+
+	<ID91>
+       <short-caption>Alrt</short-caption>
+       <caption>アラート管理</caption>
+       <description>アラート管理</description>       
+    </ID91>
+
+	<ID94>
+       <short-caption>UCD</short-caption>
+       <caption>チャート描画を元に戻す</caption>
+       <description>チャート描画を元に戻す</description>       
+    </ID94>
+
+	<ID1189>
+       <short-caption>DAAC</short-caption>
+       <caption>すべてのアラートを停止 - チャート</caption>
+       <description>すべてのアラートを停止 - チャート</description>       
+    </ID1189>
+
+	<ID1190>
+       <short-caption>DAACB</short-caption>
+       <caption>すべてのアラートを停止 - チャートブック</caption>
+       <description>すべてのアラートを停止 - チャートブック</description>       
+    </ID1190>
+
+	<ID299>
+       <short-caption>RCD</short-caption>
+       <caption>チャート描画を再描画する</caption>
+       <description>チャート描画を再描画する</description>       
+    </ID299>
+
+	<ID92>
+       <short-caption>Zoom</short-caption>
+       <caption>チャートのズーム</caption>
+       <description>チャートのズーム</description>        
+    </ID92>
+
+	<ID93>
+       <short-caption>CanZm</short-caption>
+       <caption>現在のズームを取り消す</caption>
+       <description>現在のズームを取り消す</description>       
+    </ID93>
+
+	<ID111>
+       <short-caption>CAC</short-caption>
+       <caption>すべてのチャートを閉じる</caption>
+       <description>すべてのチャートを閉じる</description>        
+    </ID111>
+
+	<ID209>
+       <short-caption>SAs</short-caption>
+       <caption>名前を付けて保存</caption>
+       <description>名前を付けて保存</description>       
+    </ID209>
+
+	<ID907>
+       <short-caption>DDEC</short-caption>
+       <caption>チャートの最後からデータをダウンロード</caption>
+       <description>チャートの最後からデータをダウンロード</description>       
+    </ID907>
+
+	<ID134>
+       <short-caption>DDHC</short-caption>
+       <caption>すべてのヒストリカルチャートデータをダウンロード</caption>
+       <description>すべてのヒストリカルチャートデータをダウンロード</description>       
+    </ID134>
+
+	<ID14>
+       <short-caption>Prnt</short-caption>
+       <caption>印刷</caption>
+       <description>印刷</description>       
+    </ID14>
+
+	<ID181>
+       <short-caption>OA</short-caption>
+       <caption>すべて開く</caption>
+       <description>すべて開く</description>       
+    </ID181>
+
+	<ID1017>
+       <short-caption>SFTU</short-caption>
+       <caption>ユーザにファイルを送信</caption>
+       <description>ユーザにファイルを送信</description>       
+    </ID1017>
+
+	<ID118>
+       <short-caption>CRFL</short-caption>
+       <caption>最近使ったファイルをクリア</caption>
+       <description>最近使ったファイルをクリア</description>       
+    </ID118>
+
+	<ID146>
+       <short-caption>Exit</short-caption>
+       <caption>SCを終了</caption>
+       <description>Sierra Chartを終了する</description>       
+    </ID146>
+
+	<ID121>
+       <short-caption>CTCB</short-caption>
+       <caption>Chart.bmpにコピー</caption>
+       <description>Chart.bmpにコピー</description>
+    </ID121>
+
+	<ID240>
+       <short-caption>UCO</short-caption>
+       <caption>オーバーレイ付きのチャートをアップロード</caption>
+       <description>オーバーレイ付きのチャートをアップロード</description>       
+    </ID240>
+
+	<ID216>
+       <short-caption>SCTS</short-caption>
+       <caption>チャートをカスタマーサポートに送信する</caption>
+       <description>チャートをカスタマーサポートに送信する</description>       
+    </ID216>
+
+	<ID218>
+       <short-caption>SMWIS</short-caption>
+       <caption>メインウィンドウの画像をカスタマーサービスに送信する</caption>
+       <description>メインウィンドウの画像をカスタマーサービスに送信する</description>     
+    </ID218>
+
+	<ID19>
+       <short-caption>EDH</short-caption>
+       <caption>データの編集 - ヒストリカルチャート</caption>
+       <description>データの編集 - ヒストリカルチャート</description>       
+    </ID19>
+
+	<ID135>
+       <short-caption>DHC</short-caption>
+       <caption>ダウンロード/更新 - ヒストリカルチャート</caption>
+       <description>ダウンロード/更新 - ヒストリカルチャート</description>       
+    </ID135>
+
+	<ID771>
+       <short-caption>DAWLS</short-caption>
+       <caption>関連するウォッチリストのシンボルデータをダウンロード</caption>
+       <description>関連するウォッチリストのシンボルデータをダウンロード</description>     
+    </ID771>
+
+	<ID152>
+       <short-caption>EDDIC</short-caption>
+       <caption>データの編集とダウンロード - イントラデイチャート</caption>
+       <description>データの編集とダウンロード - イントラデイチャート</description>       
+    </ID152>
+
+	<ID199>
+       <short-caption>DADD</short-caption>
+       <caption>すべてのデータとダウンロードを削除</caption>
+       <description>すべてのデータとダウンロードを削除</description>       
+    </ID199>
+
+	<ID151>
+       <short-caption>EIDT</short-caption>
+       <caption>イントラデイチャートをテキストファイルにエクスポート</caption>
+       <description>イントラデイチャートをテキストファイルにエクスポート</description>       
+    </ID151>
+
+	<ID147>
+       <short-caption>EEID</short-caption>
+       <caption>イントラデイチャートのエクスポートと編集</caption>
+       <description>イントラデイチャートのエクスポートと編集</description>      
+    </ID147>
+
+	<ID169>
+       <short-caption>ILID</short-caption>
+       <caption>イントラデイチャートのインポートと読み込み</caption>
+       <description>イントラデイチャートのインポートと読み込み</description>       
+    </ID169>
+
+	<ID753>
+       <short-caption>EBD</short-caption>
+       <caption>バーデータをテキストファイルにエクスポート</caption>
+       <description>バーデータをテキストファイルにエクスポート</description>       
+    </ID753>
+
+	<ID1067>
+       <short-caption>EBSD</short-caption>
+       <caption>バーデータとスタディデータをテキストファイルにエクスポート</caption>
+       <description>バーデータとスタディデータをテキストファイルにエクスポート</description>       
+    </ID1067>
+
+	<ID119>
+       <short-caption>ClrS</short-caption>
+       <caption>選択をクリア</caption>
+       <description>選択をクリア</description> 
+    </ID119>
+
+	<ID266>
+       <short-caption>Undo</short-caption>
+       <caption>元に戻す</caption>
+       <description>元に戻す</description>       
+    </ID266>
+
+	<ID383>
+       <short-caption>IRow</short-caption>
+       <caption>行を挿入</caption>
+       <description>行を挿入</description>       
+    </ID383>
+
+	<ID384>
+       <short-caption>ICol</short-caption>
+       <caption>列を挿入</caption>
+       <description>列を挿入</description> 
+    </ID384>
+
+	<ID385>
+       <short-caption>DRow</short-caption>
+       <caption>行を削除</caption>
+       <description>行を削除</description>      
+    </ID385>
+
+	<ID386>
+       <short-caption>DCol</short-caption>
+       <caption>列を削除</caption>
+       <description>列を削除</description>       
+    </ID386>
+
+	<ID158>
+       <short-caption>Goto</short-caption>
+       <caption>移動する</caption>
+       <description>移動する</description>       
+    </ID158>
+
+	<ID172>
+       <short-caption>IFUL</short-caption>
+       <caption>イントラデイのファイルを更新</caption>
+       <description>イントラデイのファイルを更新</description>       
+    </ID172>
+
+	<ID173>
+       <short-caption>JID</short-caption>
+       <caption>イントラデイのデータを追加</caption>
+       <description>イントラデイのデータを追加</description>       
+    </ID173>
+
+	<ID195>
+       <short-caption>QCBP</short-caption>
+       <caption>バーの期間をすぐに変更</caption>
+       <description>バーの期間をすぐに変更</description>       
+    </ID195>
+
+	<ID165>
+       <short-caption>GGrS</short-caption>
+       <caption>グローバルグラフィック設定</caption>
+       <description>グローバルグラフィック設定</description>        
+    </ID165>
+
+	<ID166>
+       <short-caption>GGS</short-caption>
+       <caption>グローバル一般設定</caption>
+       <description>グローバル一般設定</description> 
+    </ID166>
+
+	<ID174>
+       <short-caption>LFS</short-caption>
+       <caption>右側の空間をロック</caption>
+       <description>右側の空間をロック</description>    
+    </ID174>
+
+	<ID168>
+       <short-caption>HG</short-caption>
+       <caption>水平グリッド</caption>
+       <description>水平グリッド</description>       
+    </ID168>
+
+	<ID241>
+       <short-caption>VG</short-caption>
+       <caption>垂直グリッド</caption>
+       <description>垂直グリッド</description>       
+    </ID241>
+
+	<ID106>
+       <short-caption>BAL</short-caption>
+       <caption>ビッドアスクライン</caption>
+       <description>ビッドアスクライン</description>        
+    </ID106>
+
+	<ID105>
+       <short-caption>BAAL</short-caption>
+       <caption>ビッドアスク平均ライン</caption>
+       <description>ビッドアスク平均ライン</description>       
+    </ID105>
+
+	<ID200>
+       <short-caption>RAR</short-caption>
+       <caption>リロードおよび再計算</caption>
+       <description>リロードおよび再計算</description>      
+    </ID200>
+
+	<ID314>
+       <short-caption>RCa</short-caption>
+       <caption>再計算</caption>
+       <description>再計算</description>
+    </ID314>
+
+	<ID182>
+       <short-caption>OSWL</short-caption>
+       <caption>ウォッチリストのシンボルのみ</caption>
+       <description>ウォッチリストのシンボルのみ</description>       
+    </ID182>
+
+	<ID102>
+       <short-caption>AWL</short-caption>
+       <caption>関連するウォッチリスト</caption>
+       <description>関連するウォッチリスト</description>       
+    </ID102>
+
+	<ID224>
+       <short-caption>StaS</short-caption>
+       <caption>スキャンを開始</caption>
+       <description>スキャンを開始</description>       
+    </ID224>
+
+	<ID225>
+       <short-caption>StpS</short-caption>
+       <caption>スキャンを停止</caption>
+       <description>スキャンを停止</description>       
+    </ID225>
+
+	<ID1015>
+       <short-caption>ECS</short-caption>
+       <caption>連続スキャンを有効</caption>
+       <description>連続スキャンを有効</description>   
+    </ID1015>
+
+	<ID125>
+       <short-caption>Dly</short-caption>
+       <caption>日</caption>
+       <description>日</description>       
+    </ID125>
+
+	<ID242>
+       <short-caption>We</short-caption>
+       <caption>週</caption>
+       <description>週</description> 
+    </ID242>
+
+	<ID176>
+       <short-caption>Mon</short-caption>
+       <caption>月</caption>
+       <description>月</description> 
+    </ID176>
+
+	<ID194>
+       <short-caption>Qtr</short-caption>
+       <caption>四半期</caption>
+       <description>四半期</description>        
+    </ID194>
+
+	<ID246>
+       <short-caption>Yr</short-caption>
+       <caption>年</caption>
+       <description>年</description>      
+    </ID246>
+
+	<ID192>
+       <short-caption>PSL</short-caption>
+       <caption>ページを左にスクロール</caption>
+       <description>ページを左にスクロール</description>    
+    </ID192>
+
+	<ID193>
+       <short-caption>PSR</short-caption>
+       <caption>ページを右にスクロール</caption>
+       <description>ページを右にスクロール</description>    
+    </ID193>
+
+	<ID160>
+       <short-caption>GBOC</short-caption>
+       <caption>チャートの先頭を見る</caption>
+       <description>チャートの先頭を見る</description>     
+    </ID160>
+
+	<ID162>
+       <short-caption>GEOC</short-caption>
+       <caption>チャートの最後を見る</caption>
+       <description>チャートの最後を見る</description>       
+    </ID162>
+
+	<ID203>
+       <short-caption>RS</short-caption>
+       <caption>再スケーリング</caption>
+       <description>再スケーリング</description>
+    </ID203>
+
+	<ID1182>
+       <short-caption>RSAC</short-caption>
+       <caption>すべてのチャートを再スケーリング</caption>
+       <description>すべてのチャートを再スケーリング</description>      
+    </ID1182>
+
+	<ID204>
+       <short-caption>RTPO</short-caption>
+       <caption>TPOチャートをリセット</caption>
+       <description>TPOチャートをリセット</description> 
+    </ID204>
+
+	<ID205>
+       <short-caption>RCW</short-caption>
+       <caption>子ウィンドウをリセット</caption>
+       <description>子ウィンドウをリセット</description> 
+    </ID205>
+
+	<ID128>
+       <short-caption>DupC</short-caption>
+       <caption>チャートを複製</caption>
+       <description>チャートを複製</description> 
+    </ID128>
+
+	<ID130>
+       <short-caption>DCTC</short-caption>
+       <caption>チャートをチャートブックに複製</caption>
+       <description>チャートをチャートブックに複製</description>       
+    </ID130>
+
+	<ID143>
+       <short-caption>T&&S</short-caption>
+       <caption>歩み値</caption>
+       <description>歩み値</description>       
+    </ID143>
+
+	<ID58>
+       <short-caption>OMD</short-caption>
+       <caption>板情報を開く</caption>
+       <description>板情報を開く</description> 
+    </ID58>
+
+	<ID59>
+       <short-caption>CRBA</short-caption>
+       <caption>最新のビッド/アスクボリュームをクリア</caption>
+       <description>最新のビッド/アスクボリュームをクリア</description>       
+    </ID59>
+
+	<ID751>
+       <short-caption>CTBA</short-caption>
+       <caption>現在のビッド/アスクボリュームをクリア</caption>
+       <description>現在のビッド/アスクボリュームをクリア</description>     
+    </ID751>
+
+	<ID1097>
+       <short-caption>CTBAA</short-caption>
+       <caption>上記の現在のビッド/アスクボリュームをクリア</caption>
+       <description>上記の現在のビッド/アスクボリュームをクリア</description>      
+    </ID1097>
+
+	<ID1098>
+       <short-caption>CTBAB</short-caption>
+       <caption>下記の現在のビッド/アスクボリュームをクリア</caption>
+       <description>下記の現在のビッド/アスクボリュームをクリア</description>  
+    </ID1098>
+
+	<ID1120>
+       <short-caption>CPSD</short-caption>
+       <caption>プル/スタックデータをクリア</caption>
+       <description>プル/スタックデータをクリア</description>       
+    </ID1120>
+
+	<ID1171>
+       <short-caption>CRBAVAS</short-caption>
+       <caption>最近のビッド/アスクボリュームのクリア - すべてのシンボル</caption>
+       <description>最近のビッド/アスクボリュームのクリア - すべてのシンボル</description>       
+    </ID1171>
+
+	<ID1172>
+       <short-caption>CCTBAVAS</short-caption>
+       <caption>現在のトレードのビッド/アスクボリュームをクリア - すべてのシンボル</caption>
+       <description>現在のトレードのビッド/アスクボリュームをクリア - すべてのシンボル</description> 
+    </ID1172>
+
+	<ID210>
+       <short-caption>SACE</short-caption>
+       <caption>すべてのチャートを最後へスクロール</caption>
+       <description>すべてのチャートを最後へスクロール</description>       
+    </ID210>
+
+	<ID126>
+       <short-caption>DAW</short-caption>
+       <caption>ウィンドウの取り付け/取り外し</caption>
+       <description>ウィンドウの取り付け/取り外し</description>       
+    </ID126>
+
+	<ID187>
+       <short-caption>PFSR</short-caption>
+       <caption>先物シンボルのロールオーバー</caption>
+       <description>先物シンボルのロールオーバー</description>       
+    </ID187>
+
+	<ID373>
+       <short-caption>UCDCS</short-caption>
+       <caption>チャート描画を現在のシンボルに更新</caption>
+       <description>チャート描画を現在のシンボルに更新</description> 
+    </ID373>
+
+	<ID107>
+       <short-caption>BASD</short-caption>
+       <caption>アドバンスドスタディDLLをビルド</caption>
+       <description>アドバンスドスタディDLLをビルド</description> 
+    </ID107>
+
+	<ID1133>
+       <short-caption>RADAL</short-caption>
+       <caption>すべてのDLLとロックをリリース</caption>
+       <description>すべてのDLLとロックをリリース</description>       
+    </ID1133>
+
+	<ID1134>
+       <short-caption>ALD</short-caption>
+       <caption>DLLの読み込みを許可</caption>
+       <description>DLLの読み込みを許可</description>      
+    </ID1134>
+
+	<ID180>
+       <short-caption>OCSF</short-caption>
+       <caption>カスタムスタディファイルを作成/開く</caption>
+       <description>カスタムスタディファイルを作成/開く</description>       
+    </ID180>
+
+	<ID775>
+       <short-caption>HAS</short-caption>
+       <caption>すべてのスタディを非表示</caption>
+       <description>すべてのスタディを非表示</description>       
+    </ID775>
+
+	<ID776>
+       <short-caption>UAS</short-caption>
+       <caption>すべてのスタディを表示</caption>
+       <description>すべてのスタディを表示</description>     
+    </ID776>
+
+	<ID212>
+       <short-caption>Sync</short-caption>
+       <caption>チャートを同期</caption>
+       <description>チャートを同期</description>     
+    </ID212>
+
+	<ID220>
+       <short-caption>SLCO</short-caption>
+       <caption>接続されたチャートのみを同期</caption>
+       <description>接続されたチャートのみを同期</description>     
+    </ID220>
+
+	<ID236>
+       <short-caption>Tool</short-caption>
+       <caption>ツール設定</caption>
+       <description>ツール設定</description>       
+    </ID236>
+
+	<ID226>
+       <short-caption>SSHL</short-caption>
+       <caption>高値/安値に合わせる</caption>
+       <description>高値/安値に合わせる</description>       
+    </ID226>
+
+	<ID230>
+       <short-caption>STO</short-caption>
+       <caption>始値に合わせる</caption>
+       <description>始値に合わせる</description>       
+    </ID230>
+
+	<ID229>
+       <short-caption>STC</short-caption>
+       <caption>終値に合わせる</caption>
+       <description>終値に合わせる</description>       
+    </ID229>
+
+	<ID1188>
+       <short-caption>STOC</short-caption>
+       <caption>始値/終値に合わせる</caption>
+       <description>始値/終値に合わせる</description>     
+    </ID1188>
+
+	<ID380>
+       <short-caption>EF</short-caption>
+       <caption>数式を編集</caption>
+       <description>数式を編集</description> 
+    </ID380>
+
+	<ID179>
+       <short-caption>NumF</short-caption>
+       <caption>数式形式</caption>
+       <description>数式形式</description> 
+    </ID179>
+
+	<ID201>
+       <short-caption>RE</short-caption>
+       <caption>レンジエクスプローラ</caption>
+       <description>レンジエクスプローラ</description> 
+    </ID201>
+
+	<ID196>
+       <short-caption>QSS</short-caption>
+       <caption>クオートスプレッドシート設定</caption>
+       <description>クオートスプレッドシート設定</description>       
+    </ID196>
+
+	<ID156>
+       <short-caption>FSAI</short-caption>
+       <caption>シンボルを探して挿入</caption>
+       <description>シンボルを探して挿入</description> 
+    </ID156>
+
+	<ID155>
+       <short-caption>FR</short-caption>
+       <caption>列を固定</caption>
+       <description>列を固定</description>      
+    </ID155>
+
+	<ID154>
+       <short-caption>FC</short-caption>
+       <caption>行を固定</caption>
+       <description>行を固定</description>     
+    </ID154>
+
+	<ID1058>
+       <short-caption>CW</short-caption>
+       <caption>列幅</caption>
+       <description>列幅</description>       
+    </ID1058>
+
+	<ID98>
+       <short-caption>AFW</short-caption>
+       <caption>幅を自動調整</caption>
+       <description>幅を自動調整</description>
+    </ID98>
+
+	<ID184>
+       <short-caption>OIC</short-caption>
+       <caption>イントラデイチャートを開く</caption>
+       <description>イントラデイチャートを開く</description>       
+    </ID184>
+
+	<ID183>
+       <short-caption>OHC</short-caption>
+       <caption>ヒストリカルチャートを開く</caption>
+       <description>ヒストリカルチャートを開く</description>
+    </ID183>
+
+	<ID101>
+       <short-caption>ASht</short-caption>
+       <caption>シートを追加</caption>
+       <description>シートを追加</description> 
+    </ID101>
+
+	<ID142>
+       <short-caption>DSht</short-caption>
+       <caption>シートを削除</caption>
+       <description>シートを削除</description>       
+    </ID142>
+
+	<ID159>
+       <short-caption>GL</short-caption>
+       <caption>グリッドライン</caption>
+       <description>グリッドライン</description>      
+    </ID159>
+
+	<ID198>
+       <short-caption>RACH</short-caption>
+       <caption>行と列の見出し</caption>
+       <description>行と列の見出し</description> 
+    </ID198>
+
+	<ID207>
+       <short-caption>Sort</short-caption>
+       <caption>ソート</caption>
+       <description>ソート</description>       
+    </ID207>
+
+	<ID115>
+       <short-caption>CD</short-caption>
+       <caption>下にコピー</caption>
+       <description>下にコピー</description>
+    </ID115>
+
+	<ID117>
+       <short-caption>CR</short-caption>
+       <caption>右にコピー</caption>
+       <description>右にコピー</description> 
+    </ID117>
+
+	<ID238>
+       <short-caption>TSM</short-caption>
+       <caption>トレードシミュレーションのオン/オフ</caption>
+       <description>トレードシミュレーションのオン/オフ</description>       
+    </ID238>
+
+	<ID757>
+       <short-caption>TL</short-caption>
+       <caption>トレードのロック</caption>
+       <description>トレードのロック</description> 
+    </ID757>
+
+	<ID185>
+       <short-caption>TW</short-caption>
+       <caption>トレードウィンドウを開く</caption>
+       <description>トレードウィンドウを開く</description> 
+    </ID185>
+
+	<ID104>
+       <short-caption>ATW</short-caption>
+       <caption>トレードウィンドウをチャートに添付</caption>
+       <description>トレードウィンドウをチャートに添付</description> 
+    </ID104>
+
+	<ID914>
+       <short-caption>CTW</short-caption>
+       <caption>トレードウィンドウを閉じる</caption>
+       <description>トレードウィンドウを閉じる</description> 
+    </ID914>
+
+	<ID122>
+       <short-caption>CTMO</short-caption>
+       <caption>チャートトレードモードのオン/オフ</caption>
+       <description>チャートトレードモードのオン/オフ</description> 
+    </ID122>
+
+	<ID215>
+       <short-caption>DOM</short-caption>
+       <caption>トレーディングチャートDOMのオン/オフ</caption>
+       <description>トレーディングチャートDOMのオン/オフ</description>  
+    </ID215>
+
+	<ID132>
+       <short-caption>SOF</short-caption>
+       <caption>注文約定情報の表示</caption>
+       <description>注文約定情報の表示</description> 
+    </ID132>
+
+	<ID221>
+       <short-caption>SOP</short-caption>
+       <caption>注文とポジションを表示</caption>
+       <description>注文とポジションを表示</description>     
+    </ID221>
+
+	<ID297>
+       <short-caption>OFC</short-caption>
+       <caption>チャートからの注文のみを表示</caption>
+       <description>チャートからの注文のみを表示</description> 
+    </ID297>
+
+	<ID1116>
+       <short-caption>UAO</short-caption>
+       <caption>追加注文を使用</caption>
+       <description>追加注文を使用</description>  
+    </ID1116>
+
+	<ID1117>
+       <short-caption>CTDC</short-caption>
+       <caption>トレーディングチャートDOMの配置</caption>
+       <description>トレーディングチャートDOMの配置</description> 
+    </ID1117>
+
+	<ID131>
+       <short-caption>DDG</short-caption>
+       <caption>チャートにDOMを描画</caption>
+       <description>チャートにDOMを描画</description> 
+    </ID131>
+
+	<ID375>
+       <short-caption>RTDS</short-caption>
+       <caption>トレーディングチャートDOMを中央に表示</caption>
+       <description>トレーディングチャートDOMを中央に表示</description> 
+    </ID375>
+
+	<ID1168>
+       <short-caption>TOW</short-caption>
+       <caption>取引注文ウィンドウ</caption>
+       <description>取引注文ウィンドウ</description>
+    </ID1168>
+
+	<ID1169>
+       <short-caption>TPW</short-caption>
+       <caption>トレードポジションウィンドウ</caption>
+       <description>トレードポジションウィンドウ</description> 
+    </ID1169>
+
+	<ID1170>
+       <short-caption>ABW</short-caption>
+       <caption>アカウント残高ウィンドウ</caption>
+       <description>アカウント残高ウィンドウ</description>
+    </ID1170>
+
+	<ID61>
+       <short-caption>TSL</short-caption>
+       <caption>トレードサービスのログ</caption>
+       <description>トレードサービスのログ</description>        
+    </ID61>
+
+	<ID232>
+       <short-caption>TAL</short-caption>
+       <caption>トレードアクティビティのログ</caption>
+       <description>トレードアクティビティのログ</description>    
+    </ID232>
+
+	<ID123>
+       <short-caption>CTSD</short-caption>
+       <caption>トレードシミュレーションの注文とデータをクリア</caption>
+       <description>トレードシミュレーションの注文とデータをクリア</description> 
+    </ID123>
+
+	<ID313>
+       <short-caption>ATBB</short-caption>
+       <caption>自動トレードシステムのバックテスト(バーベース)</caption>
+       <description>自動トレードシステムのバックテスト(バーベース)</description>      
+    </ID313>
+
+	<ID296>
+       <short-caption>ATRB</short-caption>
+       <caption>自動トレードシステムのバックテストをリプレイ</caption>
+       <description>自動トレードシステムのバックテストをリプレイ</description> 
+    </ID296>
+
+	<ID237>
+       <short-caption>GTS</short-caption>
+       <caption>グローバルトレード設定</caption>
+       <description>グローバルトレード設定</description>       
+    </ID237>
+
+	<ID295>
+       <short-caption>ATG</short-caption>
+       <caption>自動トレードのオン/オフ - グローバル</caption>
+       <description>自動トレードのオン/オフ - グローバル</description>      
+    </ID295>
+
+	<ID1099>
+       <short-caption>TWSC</short-caption>
+       <caption>トレードウィンドウ保存設定</caption>
+       <description>トレードウィンドウ保存設定</description> 
+    </ID1099>
+
+	<ID1100>
+       <short-caption>CNO</short-caption>
+       <caption>新しい注文を確認</caption>
+       <description>新しい注文を確認</description> 
+    </ID1100>
+
+	<ID1101>
+       <short-caption>CCA</short-caption>
+       <caption>すべてのキャンセルを確認</caption>
+       <description>すべてのキャンセルを確認</description>      
+    </ID1101>
+
+	<ID1102>
+       <short-caption>CFR</short-caption>
+       <caption>トレードの反転を確認</caption>
+       <description>トレードの反転を確認</description>   
+    </ID1102>
+
+	<ID1103>
+       <short-caption>COM</short-caption>
+       <caption>注文変更の確認</caption>
+       <description>注文変更の確認</description>    
+    </ID1103>
+
+	<ID1104>
+       <short-caption>COC</short-caption>
+       <caption>注文キャンセルの確認</caption>
+       <description>注文キャンセルの確認</description>
+    </ID1104>
+
+	<ID1105>
+       <short-caption>SSI</short-caption>
+       <caption>ポジションスケールインのサポート</caption>
+       <description>ポジションスケールインのサポート</description>       
+    </ID1105>
+
+	<ID1106>
+       <short-caption>SSO</short-caption>
+       <caption>ポジションスケールアウトのサポート</caption>
+       <description>ポジションスケールアウトのサポート</description> 
+    </ID1106>
+
+	<ID1107>
+       <short-caption>MSQFOIOG</short-caption>
+       <caption>OCOグループ内の注文の同一数量の維持</caption>
+       <description>OCOグループ内の注文の同一数量の維持</description>      
+    </ID1107>
+
+	<ID1108>
+       <short-caption>USLO\nOCD</short-caption>
+       <caption>チャートDOMで逆指値注文を利用する</caption>
+       <description>チャートDOMで逆指値注文を利用する</description> 
+    </ID1108>
+
+	<ID1109>
+       <short-caption>UMO\nOCD</short-caption>
+       <caption>チャートDOMでMIT注文を使用する</caption>
+       <description>チャートDOMでMIT注文を使用する</description>    
+    </ID1109>
+
+	<ID1110>
+       <short-caption>ULCO\nOCD</short-caption>
+       <caption>チャートDOMで追跡指値注文を使用する</caption>
+       <description>チャートDOMで追跡指値注文を使用する</description>
+    </ID1110>
+
+	<ID1111>
+       <short-caption>COOFP</short-caption>
+       <caption>フラットポジションの注文をキャンセルする</caption>
+       <description>フラットポジションの注文をキャンセルする</description>    
+    </ID1111>
+
+	<ID1112>
+       <short-caption>CSAC</short-caption>
+       <caption>チャートと同じ色</caption>
+       <description>チャートと同じ色</description>       
+    </ID1112>
+
+	<ID1113>
+       <short-caption>HPAO</short-caption>
+       <caption>未執行の追加注文を非表示</caption>
+       <description>未執行の追加注文を非表示</description>      
+    </ID1113>
+
+	<ID1114>
+       <short-caption>IQOLC</short-caption>
+       <caption>読み込み設定で数量を無視する</caption>
+       <description>読み込み設定で数量を無視する</description>   
+    </ID1114>
+
+	<ID1057>
+       <short-caption>ATC</short-caption>
+       <caption>自動トレードのオン/オフ - チャート</caption>
+       <description>自動トレードのオン/オフ - チャート</description>      
+    </ID1057>
+
+	<ID382>
+       <short-caption>TKS</short-caption>
+       <caption>トレードでキーボードショートカットを有効</caption>
+       <description>トレードでキーボードショートカットを有効</description>       
+    </ID382>
+
+	<ID149>
+       <short-caption>EFS</short-caption>
+       <caption>エラーフィルタ設定</caption>
+       <description>エラーフィルタ設定</description> 
+    </ID149>
+
+	<ID120>
+       <short-caption>CusCB</short-caption>
+       <caption>コントロールバーのカスタマイズ</caption>
+       <description>コントロールバーのカスタマイズ</description>       
+    </ID120>
+
+    <ID113>
+       <short-caption>CCH</short-caption>
+       <caption>チャートヘッダーのカスタマイズ</caption>
+       <description>チャートヘッダーのカスタマイズ</description>      
+    </ID113>
+	
+	<ID1186>
+       <short-caption>CTDH</short-caption>
+       <caption>トレードDOMヘッダーのカスタマイズ</caption>
+       <description>トレードDOMヘッダーのカスタマイズ</description>      
+    </ID1186>
+	
+	<ID245>
+       <short-caption>SpS</short-caption>
+       <caption>スプレッドシート設定</caption>
+       <description>スプレッドシート設定</description>       
+    </ID245>
+	
+	<ID109>
+       <short-caption>WC</short-caption>
+       <caption>ウィンドウを少し重ねて配置</caption>
+       <description>ウィンドウを少し重ねて配置</description>      
+    </ID109>
+	
+	<ID234>
+       <short-caption>WTH</short-caption>
+       <caption>ウィンドウを水平に並べて配置</caption>
+       <description>ウィンドウを水平に並べて配置</description>       
+    </ID234>
+	
+	<ID239>
+       <short-caption>WTV</short-caption>
+       <caption>ウィンドウを垂直に並べて配置</caption>
+       <description>ウィンドウを垂直に並べて配置</description>
+    </ID239>
+	
+	<ID773>
+       <short-caption>WTGH</short-caption>
+       <caption>ウィンドウ配置 - 水平</caption>
+       <description>ウィンドウ配置 - 水平</description>       
+    </ID773>
+	
+	<ID774>
+       <short-caption>WTGV</short-caption>
+       <caption>ウィンドウ配置 - 垂直</caption>
+       <description>ウィンドウ配置 - 垂直</description>      
+    </ID774>
+	
+	<ID103>
+       <short-caption>AT</short-caption>
+       <caption>ウィンドウを常に手前に表示</caption>
+       <description>ウィンドウを常に手前に表示</description>       
+    </ID103>
+	
+	<ID341>
+       <short-caption>CAV</short-caption>
+       <caption>チャートを常に表示</caption>
+       <description>チャートを常に表示</description>       
+    </ID341>
+	
+	<ID177>
+       <short-caption>Max</short-caption>
+       <caption>ウィンドウを最大化</caption>
+       <description>ウィンドウを最大化</description>       
+    </ID177>
+	
+	<ID770>
+       <short-caption>Min</short-caption>
+       <caption>ウィンドウを最小化</caption>
+       <description>ウィンドウを最小化</description> 
+    </ID770>
+	
+	<ID197>
+       <short-caption>Rst</short-caption>
+       <caption>ウィンドウを復元</caption>
+       <description>ウィンドウを復元</description>       
+    </ID197>
+	
+	<ID99>
+       <short-caption>AMW</short-caption>
+       <caption>ウィンドウを最小化して配置</caption>
+       <description>ウィンドウを最小化して配置</description>     
+    </ID99>
+	
+	<ID388>
+       <short-caption>STB</short-caption>
+       <caption>タイトルバーを表示</caption>
+       <description>タイトルバーを表示</description>      
+    </ID388>
+	
+	<ID433>
+       <short-caption>SM</short-caption>
+       <caption>メニューを表示</caption>
+       <description>メニューを表示</description>       
+    </ID433>
+	
+	<ID434>
+       <short-caption>ASA</short-caption>
+       <caption>シンボルアラートを表示</caption>
+       <description>シンボルアラートを表示</description>       
+    </ID434>
+	
+	<ID233>
+       <short-caption>CB</short-caption>
+       <caption>コントロールバー</caption>
+       <description>コントロールバー</description>       
+    </ID233>
+	
+	<ID437>
+       <short-caption>CB2</short-caption>
+       <caption>コントロールバー2</caption>
+       <description>コントロールバー2</description>     
+    </ID437>
+	
+	<ID438>
+       <short-caption>CB3</short-caption>
+       <caption>コントロールバー3</caption>
+       <description>コントロールバー3</description>       
+    </ID438>
+	
+	<ID439>
+       <short-caption>CB4</short-caption>
+       <caption>コントロールバー4</caption>
+       <description>コントロールバー4</description>       
+    </ID439>
+	
+	<ID440>
+       <short-caption>CB5</short-caption>
+       <caption>コントロールバー5</caption>
+       <description>コントロールバー5</description>       
+    </ID440>
+	
+	<ID441>
+       <short-caption>CB6</short-caption>
+       <caption>コントロールバー6</caption>
+       <description>コントロールバー6</description>       
+    </ID441>
+	
+	<ID442>
+       <short-caption>CB7</short-caption>
+       <caption>コントロールバー7</caption>
+       <description>コントロールバー7</description>       
+    </ID442>
+	
+	<ID443>
+       <short-caption>CB8</short-caption>
+       <caption>コントロールバー8</caption>
+       <description>コントロールバー8</description>       
+    </ID443>
+	
+	<ID206>
+       <short-caption>RW</short-caption>
+       <caption>ウィンドウをリセット</caption>
+       <description>ウィンドウをリセット</description>       
+    </ID206>
+	
+	<ID243>
+       <short-caption>WAC</short-caption>
+       <caption>ウィンドウとチャートブック</caption>
+       <description>ウィンドウとチャートブック</description>      
+    </ID243>
+	
+	<ID164>
+       <short-caption>GS</short-caption>
+       <caption>はじめに</caption>
+       <description>はじめに</description>       
+    </ID164>
+	
+	<ID235>
+       <short-caption>TOC</short-caption>
+       <caption>目次</caption>
+       <description>目次</description> 
+    </ID235>
+	
+	<ID208>
+       <short-caption>Sup</short-caption>
+       <caption>カスタマーサポート</caption>
+       <description>カスタマーサポート</description>     
+    </ID208>
+	
+	<ID144>
+       <short-caption>DTS</short-caption>
+       <caption>データ/トレードサービス</caption>
+       <description>数据/交易服务</description> 
+    </ID144>
+	
+	<ID186>
+       <short-caption>ACP</short-caption>
+       <caption>アカウントコントロールパネル</caption>
+       <description>アカウントコントロールパネル</description>      
+    </ID186>
+	
+	<ID145>
+       <short-caption>DCV</short-caption>
+       <caption>現在のバージョンをダウンロード</caption>
+       <description>現在のバージョンをダウンロード</description> 
+    </ID145>
+	
+	<ID138>
+       <short-caption>DPR</short-caption>
+       <caption>プレリリースバージョンをダウンロード</caption>
+       <description>プレリリースバージョンをダウンロード</description>       
+    </ID138>
+	
+	<ID133>
+       <short-caption>IPV</short-caption>
+       <caption>以前のバージョンをインストール</caption>
+       <description>以前のバージョンをインストール</description>    
+    </ID133>
+	
+	<ID100>
+       <short-caption>ARA</short-caption>
+       <caption>リモートアシスタンスを受け入れる</caption>
+       <description>リモートアシスタンスを受け入れる</description>      
+    </ID100>
+	
+	<ID139>
+       <short-caption>DRA</short-caption>
+       <caption>リモートアシスタンスをダウンロード</caption>
+       <description>リモートアシスタンスをダウンロード</description>       
+    </ID139>
+	
+	<ID97>
+       <short-caption>Abt</short-caption>
+       <caption>SCについて</caption>
+       <description>Sierra Chartについて</description>       
+    </ID97>
+	
+	<ID248>
+       <short-caption>OHLC</short-caption>
+       <caption>OHLC</caption>
+       <description>OpenHighLowClose</description>       
+    </ID248>
+	
+	<ID249>
+       <short-caption>Cdl</short-caption>
+       <caption>ローソク足</caption>
+       <description>ローソク足</description>
+    </ID249>
+	
+	<ID250>
+       <short-caption>CdlB</short-caption>
+       <caption>ローソク足(実体のみ)</caption>
+       <description>ローソク足(実体のみ)</description>       
+    </ID250>
+	
+	<ID251>
+       <short-caption>LOC</short-caption>
+       <caption>LowOpenClose</caption>
+       <description>安値始値終値</description>       
+    </ID251>
+	
+	<ID252>
+       <short-caption>Mntn</short-caption>
+       <caption>マウンテン</caption>
+       <description>マウンテン</description>      
+    </ID252>
+	
+	<ID253>
+       <short-caption>HLC</short-caption>
+       <caption>HighLowClose</caption>
+       <description>高値安値終値</description> 
+    </ID253>
+	
+	<ID257>
+       <short-caption>HL</short-caption>
+       <caption>HighLow</caption>
+       <description>高値安値</description>       
+    </ID257>
+	
+	<ID254>
+       <short-caption>LOO</short-caption>
+       <caption>始値ライン</caption>
+       <description>始値ライン</description>   
+    </ID254>
+	
+	<ID255>
+       <short-caption>HLA</short-caption>
+       <caption>高値安値平均</caption>
+       <description>高値安値平均</description>       
+    </ID255>
+	
+	<ID256>
+       <short-caption>SSoC</short-caption>
+       <caption>終値ラダー</caption>
+       <description>終値ラダー</description>       
+    </ID256>
+	
+	<ID258>
+       <short-caption>BAVB</short-caption>
+       <caption>ビッドアスクライン</caption>
+       <description>ビッドアスクライン</description>       
+    </ID258>
+	
+	<ID259>
+       <short-caption>PVB</short-caption>
+       <caption>プライスライン</caption>
+       <description>プライスライン</description>       
+    </ID259>
+	
+	<ID260>
+       <short-caption>CPVB</short-caption>
+       <caption>プライスボリュームローソク足</caption>
+       <description>プライスボリュームローソク足</description>       
+    </ID260>
+	
+	<ID594>
+       <short-caption>RB</short-caption>
+       <caption>練行足</caption>
+       <description>練行足</description>       
+    </ID594>
+	
+	<ID595>
+       <short-caption>RBWW</short-caption>
+       <caption>ヒゲ付き練行足</caption>
+       <description>ヒゲ付き練行足</description>     
+    </ID595>
+	
+	<ID272>
+       <short-caption>Blnk</short-caption>
+       <caption>空白</caption>
+       <description>空白</description>      
+    </ID272>
+	
+	<ID269>
+       <short-caption>SS</short-caption>
+       <caption>シンボル設定</caption>
+       <description>シンボル設定</description>       
+    </ID269>
+	
+	<ID271>
+       <short-caption>CASQ</short-caption>
+       <caption>アラート音の待ちをクリア</caption>
+       <description>アラート音の待ちをクリア</description>     
+    </ID271>
+	
+	<ID750>
+       <short-caption>MUTE</short-caption>
+       <caption>すべてのアラートをミュート</caption>
+       <description>すべてのアラートをミュート</description>       
+    </ID750>
+	
+	<ID275>
+       <short-caption>1M</short-caption>
+       <caption>1分</caption>
+       <description>1分</description>     
+    </ID275>
+	
+	<ID276>
+       <short-caption>5M</short-caption>
+       <caption>5分</caption>
+       <description>5分</description>      
+    </ID276>
+	
+	<ID277>
+       <short-caption>10M</short-caption>
+       <caption>10分</caption>
+       <description>10分</description>    
+    </ID277>
+	
+	<ID278>
+       <short-caption>15M</short-caption>
+       <caption>15分</caption>
+       <description>15分</description>      
+    </ID278>
+	
+	<ID279>
+       <short-caption>30M</short-caption>
+       <caption>30分</caption>
+       <description>30分</description>     
+    </ID279>
+	
+	<ID280>
+       <short-caption>1H</short-caption>
+       <caption>1時間</caption>
+       <description>1時間</description>       
+    </ID280>
+	
+	<ID281>
+       <short-caption>2H</short-caption>
+       <caption>2時間</caption>
+       <description>2時間</description>       
+    </ID281>
+	
+	<ID282>
+       <short-caption>3H</short-caption>
+       <caption>3時間</caption>
+       <description>3時間</description>       
+    </ID282>
+	
+	<ID283>
+       <short-caption>4H</short-caption>
+       <caption>4時間</caption>
+       <description>4時間</description> 
+    </ID283>
+	
+	<ID294>
+       <short-caption>CTV</short-caption>
+       <caption>コンパクトツール値ウィンドウの表示/非表示</caption>
+       <description>コンパクトツール値ウィンドウの表示/非表示</description>   
+    </ID294>
+	
+	<ID321>
+       <short-caption>DVP</short-caption>
+       <caption>ボリュームプロファイルの描画</caption>
+       <description>ボリュームプロファイルの描画</description>       
+    </ID321>
+	
+	<ID397>
+       <short-caption>EDVP</short-caption>
+       <caption>描画されたボリュームプロファイルをすべて削除</caption>
+       <description>描画されたボリュームプロファイルをすべて削除</description>       
+    </ID397>
+	
+	<ID398>
+       <short-caption>EVPS</short-caption>
+       <caption>ボリュームプロファイルの選択を有効</caption>
+       <description>ボリュームプロファイルの選択を有効</description>
+    </ID398>
+	
+	<ID343>
+       <short-caption>CL0</short-caption>
+       <caption>チャートリンク0</caption>
+       <description>チャートリンク0</description>	   
+    </ID343>
+	
+	<ID344>
+       <short-caption>CL1</short-caption>
+       <caption>チャートリンク1</caption>
+       <description>チャートリンク1</description>
+    </ID344>
+	
+	<ID345>
+       <short-caption>CL2</short-caption>
+       <caption>チャートリンク2</caption>
+       <description>チャートリンク2</description>
+    </ID345>
+	
+	<ID346>
+       <short-caption>CL3</short-caption>
+       <caption>チャートリンク3</caption>
+       <description>チャートリンク3</description>
+    </ID346>
+	
+	<ID347>
+       <short-caption>CL4</short-caption>
+       <caption>チャートリンク4</caption>
+       <description>チャートリンク4</description>
+    </ID347>
+	
+	<ID348>
+       <short-caption>CL5</short-caption>
+       <caption>チャートリンク5</caption>
+       <description>チャートリンク5</description>
+    </ID348>
+	
+	<ID349>
+       <short-caption>CL6</short-caption>
+       <caption>チャートリンク6</caption>
+       <description>チャートリンク6</description>
+    </ID349>
+	
+	<ID350>
+       <short-caption>CL7</short-caption>
+       <caption>チャートリンク7</caption>
+       <description>チャートリンク7</description>
+    </ID350>
+	
+	<ID351>
+       <short-caption>CL8</short-caption>
+       <caption>チャートリンク8</caption>
+       <description>チャートリンク8</description>
+    </ID351>
+	
+	<ID352>
+       <short-caption>CL9</short-caption>
+       <caption>チャートリンク9</caption>
+       <description>チャートリンク9</description>
+    </ID352>
+	
+	<ID353>
+       <short-caption>CL10</short-caption>
+       <caption>チャートリンク10</caption>
+       <description>チャートリンク10</description>
+    </ID353>
+	
+	<ID354>
+       <short-caption>CL11</short-caption>
+       <caption>チャートリンク11</caption>
+       <description>チャートリンク11</description>
+    </ID354>
+	
+	<ID355>
+       <short-caption>CL12</short-caption>
+       <caption>チャートリンク12</caption>
+       <description>チャートリンク12</description> 
+    </ID355>
+	
+	<ID909>
+       <short-caption>CL13</short-caption>
+       <caption>チャートリンク13</caption>
+       <description>チャートリンク13</description> 
+    </ID909>
+	
+	<ID910>
+       <short-caption>CL14</short-caption>
+       <caption>チャートリンク14</caption>
+       <description>チャートリンク14</description>
+    </ID910>
+	
+	<ID911>
+       <short-caption>CL15</short-caption>
+       <caption>チャートリンク15</caption>
+       <description>チャートリンク15</description>
+    </ID911>
+	
+	<ID912>
+       <short-caption>CL16</short-caption>
+       <caption>チャートリンク16</caption>
+       <description>チャートリンク16</description>
+    </ID912>
+	
+	<ID356>
+       <short-caption>CLS</short-caption>
+       <caption>チャートリンクシンボル</caption>
+       <description>チャートリンクシンボル</description> 
+    </ID356>
+	
+	<ID357>
+       <short-caption>CLBP</short-caption>
+       <caption>チャートリンクバー期間</caption>
+       <description>チャートリンクバー期間</description> 
+    </ID357>
+	
+	<ID358>
+       <short-caption>CLSP</short-caption>
+       <caption>チャートリンクスクロール位置</caption>
+       <description>チャートリンクスクロール位置</description>
+    </ID358>
+	
+	<ID359>
+       <short-caption>CLST</short-caption>
+       <caption>チャートリンクセッション時間</caption>
+       <description>チャートリンクセッション時間</description>
+    </ID359>
+	
+	<ID754>
+       <short-caption>CLCS</short-caption>
+       <caption>チャートリンクチャートスタディ</caption>
+       <description>チャートリンクチャートスタディ</description>
+    </ID754>
+	
+	<ID755>
+       <short-caption>CLDTL</short-caption>
+       <caption>チャートリンクロード日数</caption>
+       <description>チャートリンクロード日数</description>
+    </ID755>
+	
+	<ID756>
+       <short-caption>CLBS</short-caption>
+       <caption>チャートリンクバー間隔</caption>
+       <description>チャートリンクバー間隔</description> 
+    </ID756>
+	
+	<ID764>
+       <short-caption>CLTW</short-caption>
+       <caption>チャートリンクトレードウィンドウ</caption>
+       <description>チャートリンクトレードウィンドウ</description>
+    </ID764>
+	
+	<ID1068>
+       <short-caption>CLVS</short-caption>
+       <caption>チャートリンク垂直スケール</caption>
+       <description>チャートリンク垂直スケール</description>
+    </ID1068>
+	
+	<ID1183>
+       <short-caption>CLTQS</short-caption>
+       <caption>チャートリンクトレードクオートシンボル</caption>
+       <description>チャートリンクトレードクオートシンボル</description>
+    </ID1183>
+	
+	<ID371>
+       <short-caption>MDW</short-caption>
+       <caption>未装着のウィンドウを最小化</caption>
+       <description>未装着のウィンドウを最小化</description>
+    </ID371>
+	
+	<ID372>
+       <short-caption>RDW</short-caption>
+       <caption>未装着のウィンドウを復元</caption>
+       <description>未装着のウィンドウを復元</description> 
+    </ID372>
+	
+	<ID390>
+       <short-caption>QB</short-caption>
+       <caption>クオートボード</caption>
+       <description>クオートボード</description>
+    </ID390>
+	
+	<ID435>
+       <short-caption>ISMR</short-caption>
+       <caption>インタラクティブスケールモード - 範囲</caption>
+       <description>インタラクティブスケールモード - 範囲</description>
+    </ID435>
+	
+	<ID436>
+       <short-caption>ISMM</short-caption>
+       <caption>インタラクティブスケールモード - 移動</caption>
+       <description>インタラクティブスケールモード - 移動</description>
+    </ID436>
+	
+	<ID1055>
+       <short-caption>ISML</short-caption>
+       <caption>インタラクティブスケールモード - 固定</caption>
+       <description>インタラクティブスケールモード - 固定</description> 
+    </ID1055>
+	
+	<ID758>
+       <short-caption>CCDM</short-caption>
+       <caption>カットチャート描画モード</caption>
+       <description>カットチャート描画モード</description>
+    </ID758>
+	
+	<ID759>
+       <short-caption>CSCD</short-caption>
+       <caption>単一のチャート描画を切り取り</caption>
+       <description>単一のチャート描画を切り取り</description>
+    </ID759>
+	
+	<ID760>
+       <short-caption>HDLM</short-caption>
+       <caption>描画レベルモードを非表示</caption>
+       <description>描画レベルモードを非表示</description> 
+    </ID760>
+	
+	<ID761>
+       <short-caption>HSDL</short-caption>
+       <caption>単一の描画レベルを非表示</caption>
+       <description>単一の描画レベルを非表示</description>   
+		
+    </ID761>
+	
+	<ID765>
+       <short-caption>CBH</short-caption>
+       <caption>中空ローソク足</caption>
+       <description>中空ローソク足</description>
+    </ID765>
+	
+	<ID769>
+       <short-caption>NIns</short-caption>
+       <caption>新しいインスタンス</caption>
+       <description>新しいインスタンス</description>
+    </ID769>
+	
+	<ID1056>
+       <short-caption>OSSW</short-caption>
+       <caption>スタディ概要ウィンドウを表示</caption>
+       <description>スタディ概要ウィンドウを表示</description> 
+    </ID1056>
+	
+	<ID913>
+       <short-caption>CDS</short-caption>
+       <caption>デスクトップショートカットを作成</caption>
+       <description>デスクトップショートカットを作成</description>
+		
+    </ID913>
+	
+	<ID1187>
+       <short-caption>SXYCR</short-caption>
+       <caption>XとYの関係を一定にする</caption>
+       <description>XとYの関係を一定にする</description>  
+		
+    </ID1187>
+	
+	<ID1018>
+       <short-caption>SRA</short-caption>
+       <caption>スケール範囲 - 自動</caption>
+       <description>スケール範囲 - 自動</description> 
+    </ID1018>
+	
+	<ID1019>
+       <short-caption>SRI</short-caption>
+       <caption>スケール範囲 - 独立</caption>
+       <description>スケール範囲 - 独立</description>
+    </ID1019>
+	
+	<ID1020>
+       <short-caption>SRC</short-caption>
+       <caption>スケール範囲 - 一定</caption>
+       <description>スケール範囲 - 一定</description> 
+    </ID1020>
+	
+	<ID1021>
+       <short-caption>SRUD</short-caption>
+       <caption>スケール範囲 - ユーザ定義</caption>
+       <description>スケール範囲 - ユーザ定義</description>  
+		
+    </ID1021>
+	
+	<ID1022>
+       <short-caption>ASCD</short-caption>
+       <caption>チャートDOMのスケールを自動調整</caption>
+       <description>チャートDOMのスケールを自動調整</description>
+    </ID1022>
+	
+	<ID1059>
+       <short-caption>RQOSC</short-caption>
+       <caption>シンボル変更時に数量リセット</caption>
+       <description>シンボル変更時に数量リセット</description>  
+    </ID1059>
+	
+	<ID1115>
+       <short-caption>UOFCP</short-caption>
+       <caption>注文約定ポジション計算の使用 - チャート</caption>
+       <description>注文約定ポジション計算の使用 - チャート</description>
+    </ID1115>
+	
+	<ID1060>
+       <short-caption>ATSBBBWS</short-caption>
+       <caption>バーベースの自動トレードシステムのバックテストスキャン</caption>
+       <description>バーベースの自動トレードシステムのバックテストスキャン</description>
+    </ID1060>
+	
+	<ID1061>
+       <short-caption>STL</short-caption>
+       <caption>トリガーを用いた指値売り</caption>
+       <description>トリガーを用いた指値売り</description>
+    </ID1061>
+	
+	<ID1062>
+       <short-caption>BTL</short-caption>
+       <caption>トリガーを用いた指値買い</caption>
+       <description>トリガーを用いた指値買い</description>
+    </ID1062>
+	
+	<ID1063>
+       <short-caption>STLAS</short-caption>
+       <caption>トリガーを用いた指値売り(自動設定)</caption>
+       <description>トリガーを用いた指値売り(自動設定)</description> 
+    </ID1063>
+	
+	<ID1064>
+       <short-caption>BTLAS</short-caption>
+       <caption>トリガーを用いた指値買い(自動設定)</caption>
+       <description>トリガーを用いた指値買い(自動設定)</description>  		
+    </ID1064>
+	
+	<ID1065>
+       <short-caption>RLBSAO</short-caption>
+       <caption>逆指値注文の削除</caption>
+       <description>逆指値注文の削除</description>		
+    </ID1065>
+	
+	<ID1091>
+       <short-caption>OQB1</short-caption>
+       <caption>注文数量ボタン1</caption>
+       <description>注文数量ボタン1</description>	     
+    </ID1091>
+	
+	<ID1092>
+       <short-caption>OQB2</short-caption>
+       <caption>注文数量ボタン2</caption>
+       <description>注文数量ボタン2</description> 		   
+    </ID1092>
+	
+	<ID1093>
+       <short-caption>OQB3</short-caption>
+       <caption>注文数量ボタン3</caption>
+       <description>注文数量ボタン3</description>		   
+    </ID1093>
+	
+	<ID1094>
+       <short-caption>OQB4</short-caption>
+       <caption>注文数量ボタン4</caption>
+       <description>注文数量ボタン4</description> 			   
+    </ID1094>
+	
+	<ID1095>
+       <short-caption>OQB5</short-caption>
+       <caption>注文数量ボタン5</caption>
+       <description>注文数量ボタン5</description> 		   
+    </ID1095>
+	
+	<ID1096>
+       <short-caption>OQB6</short-caption>
+       <caption>注文数量ボタン6</caption>
+       <description>注文数量ボタン6</description>		
+    </ID1096>
+	
+	<ID1121>
+       <short-caption>NALOTU</short-caption>
+       <caption>非添付の指値注文 - ティックアップ</caption>
+       <description>非添付の指値注文 - ティックアップ</description> 		
+    </ID1121>
+	
+	<ID1122>
+       <short-caption>NALOTD</short-caption>
+       <caption>非添付の指値注文 - ティックダウン</caption>
+       <description>非添付の指値注文 - ティックダウン</description>		
+    </ID1122>
+	
+	<ID1123>
+       <short-caption>TOTU</short-caption>
+       <caption>目標注文 - ティックアップ</caption>
+       <description>目標注文 - ティックダウン</description>		
+    </ID1123>
+	
+	<ID1124>
+       <short-caption>TOTD</short-caption>
+       <caption>目標注文 - ティックダウン</caption>
+       <description>目標注文 - ティックダウン</description> 		
+    </ID1124>
+	
+	<ID1125>
+       <short-caption>SOTU</short-caption>
+       <caption>逆指値注文 - ティックアップ</caption>
+       <description>逆指値注文 - ティックアップ</description> 		
+    </ID1125>
+	
+	
+	<ID1126>
+       <short-caption>SOTD</short-caption>
+       <caption>逆指値注文 - ティックダウン</caption>
+       <description>逆指値注文 - ティックダウン</description> 		
+    </ID1126>
+	
+	<ID1184>
+       <short-caption>GNCF</short-caption>
+       <caption>次のチャートフィルを表示</caption>
+       <description>次のチャートフィルを表示</description>  		
+    </ID1184>
+	
+	<ID1185>
+       <short-caption>GPCF</short-caption>
+       <caption>前のチャートフィルを表示</caption>
+       <description>前のチャートフィルを表示</description>  	   
+    </ID1185>
+	
+	<ID1066>
+       <short-caption>SMWTF</short-caption>
+       <caption>メインウィンドウをファイルに保存</caption>
+       <description>メインウィンドウをファイルに保存</description>		     
+    </ID1066>
+		
+</control-bar-translations>
